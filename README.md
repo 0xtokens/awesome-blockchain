@@ -73,3 +73,45 @@ If you find this list useful, you can also support it directly making a donation
 
 <br>
 
+## For Dummies
+
+- [Some things you need to know](https://bitcoin.org/en/you-need-to-know) - If you're getting started with Bitcoin, there are a few things you should know. 
+- [Getting started with Bitcoin](https://bitcoin.org/en/getting-started) - How to use Bitcoin.
+- [What is the Blockchain?](https://en.bitcoin.it/wiki/Block_chain) - Basic information about blockchain concept.
+- [A Beginner's Guide to Blockchain Technology](https://www.coindesk.com/information/) - by coindesk.com
+- [A Beginner’s Guide to Blockchain](https://hackernoon.com/a-beginners-guide-to-blockchain-d04266844e7) - by 
+Febin John James
+- [A beginner’s guide to getting started with cryptocurrencies](https://hackernoon.com/a-beginners-guide-to-getting-started-with-cryptocurrencies-76027bebb1b1) - Hacker Noon
+- [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) The ultimate 3500-word guide in plain English to understand Blockchain -  by Mohit Mamoria
+- [Beginner’s guide series on cryptoassets:](https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887) Target audience is people who know about Bitcoin and are looking to learn more about other cryptoassets. - by Linda Xie
+
+Learn about Bitcoin in a visual way:
+
+- [Bitcoin Historical Price & Events](https://99bitcoins.com/price-chart-history/) - Accurate Bitcoin timeline.
+- [The Biggest Moments in Bitcoin History <small>(2008-2014)</small> ](https://nativemerchantservices.com/content/uploads/2015/01/biggest-moments-in-bitcoin1.png) - Infographic <small>(Information mostly correct and relevant, with few errors pointed out [here.](https://www.reddit.com/r/Bitcoin/comments/2vnv1d/the_biggest_moments_in_bitcoin_history_infographic/) It is also included because it provides a quick overview for newbies)</small>
+- [How a Bitcoin Transaction Works](https://spectrum.ieee.org/image/MjA3NDM1OA.jpeg) - <small>(Inaccurate/out of date but good to explaining simple concepts. Some inaccuracies indicated [here](https://www.reddit.com/r/Bitcoin/comments/1t4i5n/how_a_bitcoin_transaction_works_a_good/))</small>
+- [67 Insane Facts About Bitcoin](https://bitcoinplay.net/58-insane-facts-about-bitcoin/) - 
+
+Some video:
+
+- [Have you ever wonder how bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - by 3blue1brown channel
+- [Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) - by Vitalik Buterin
+
+Useful resources:
+
+- [bitcoin.org](https://bitcoin.org/) - Bitcoin.org is dedicated to help Bitcoin to develop in a sustainable way.
+- [bitcoinwiki](https://en.bitcoin.it/wiki/Help:FAQ) - Here you will find answers to the most commonly asked questions.
+- [bitcointalk.org](https://bitcointalk.org) - Bitcoin forum  
+- [r/bitcoin](https://www.reddit.com/r/Bitcoin/) -  Bitcoin subreddit.
+- [r/ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit.
+- [r/BlockChain](https://www.reddit.com/r/BlockChain/) - BlockChain subreddit.
+- [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - CryptoCurrency subreddit.
+- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts
+
+Main whitepapers:
+
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - by Satoshi Nakamoto
+- [Ethereum whitepaper:](https://github.com/ethereum/wiki/wiki/White-Paper) A Next-Generation Smart Contract and Decentralized Application Platform - by Vitalik Buterin
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
