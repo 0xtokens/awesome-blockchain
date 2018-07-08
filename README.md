@@ -34,12 +34,12 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 Tips:  
 If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
 <small>  
-<a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
-<a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
-<a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
-<a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
-<a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
-<a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
+<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
+<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
+<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
+<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
+<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
+<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
 </small>
 
 <br>
