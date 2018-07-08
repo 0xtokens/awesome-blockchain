@@ -3458,3 +3458,57 @@ Conversion platforms are not decentralized nor do they have advanced trading too
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
+### Gold Investments
+
+Coming soon...
+
+### ATMs Automated Teller Machines
+
+Coming soon...
+
+### Market Research
+
+Coming soon...
+
+## Wallets
+
+Coming soon...
+
+## Portfolio
+
+Coming soon...
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## What´s cooking?
+
+New lists are coming...
+
+```
+- Blockchain Platforms
+- Blockchain Development
+- Block Explorers
+- Exchange and Trading
+	- Gold Investments
+	- ATMs Automated Teller Machines
+	- Market Research
+- Wallets
+- Portfolio
+- Announcements/Calendar
+- Payment Solutions (Cards & Platforms)
+- Shopping / Buy with Crypto
+- Blockchain Proyects
+- Professional Devs
+- Founders
+- Mining
+- Master Nodes
+- Blog & News
+- Youtube Channels
+- Courses
+- Books
+- Merchandising
+- Games
+- Knowledge resources (Docs, Video, Talks...)
+- Meetups & Events
+
+```
