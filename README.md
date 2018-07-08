@@ -34,12 +34,12 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 Tips:  
 If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
 <small>  
-<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
-<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
-<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
-<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
-<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
-<a target="_blank" rel="noopener noreferrer" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
+<a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
+<a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
+<a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
+<a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
+<a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
+<a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
 </small>
 
 <br>
@@ -52,23 +52,23 @@ If you find this list useful, you can also support it directly making a donation
 ## Contents
 
 - [For Dummies](#for-dummies)
-- [Where to Start?](#)
-- [Blockchain Platforms](#)
-- [Exchange and Trading](#)
-	- [FIAT&#8596;Crypto Exchanges](#)
-	- [P2P Marketplaces](#)
-	- [Trading Platforms](#)
-	- [Decentralized Exchanges (DEX)](#)
-	- [DEX Platforms (Exchange + Dev. Platform)](#)
-	- [Comparative overview between Advanced Trading Features](#)
-	- [Invest with Popular Brokers](#)
-	- [Crypto&#8596;Crypto conversion platforms](#)
-	- [Gold Investments](#)
-	- [ATMs Automated Teller Machines](#)
-	- [Market Research](#)
-- [Wallets](#)
-- [Portfolio](#)
-- [What´s cooking?](#)
+- [Where to Start?](#where-to-start)
+- [Blockchain Platforms](#blockchain-platforms)
+- [Exchange and Trading](#exchange-and-trading)
+	- [FIAT&#8596;Crypto Exchanges](#fiatcrypto-exchanges)
+	- [P2P Marketplaces](#p2p-marketplaces)
+	- [Trading Platforms](#trading-platforms)
+	- [Decentralized Exchanges (DEX)](#decentralized-exchanges-dex)
+	- [DEX Platforms (Exchange + Dev. Platform)](#dex-platforms-exchange-dev-platform)
+	- [Comparative overview between Advanced Trading Features](#comparative-overview-between-advanced-trading-features)
+	- [Cryptocurrency Investment Brokers](#cryptocurrency-investment-brokers)
+	- [Crypto&#8596;Crypto conversion platforms](#cryptocrypto-conversion-platforms)
+	- [Gold Investments](#gold-investments)
+	- [ATMs Automated Teller Machines](#atms-automated-teller-machines)
+	- [Market Research](#market-research)
+- [Wallets](#wallets)
+- [Portfolio](#portfolio)
+- [What´s cooking?](#whats-cooking)
 
 
 <br>
