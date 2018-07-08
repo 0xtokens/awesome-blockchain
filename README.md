@@ -1445,3 +1445,143 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
+### P2P Marketplaces
+
+<!-- ![P2P](./img/c2c.png) -->
+
+The main difference with the exchanges is that in a p2p marketplace you are buying cryptocurrencies directly from another person, and the platform acts as an intermediary to guard the assets throughout the transaction process.
+
+Some like [LocalBitcoins](https://localbitcoins.com/?ch=rpkf)[&#x25BE;](https://localbitcoins.com/) or [Remitano](https://remitano.com/es?ref=xtokens)[&#x25BE;](https://remitano.com/), also allow you to buy locally, to people near you.
+
+>It should be noted that [decentralized exchanges](#decentralized-exchanges-dex) are also p2p markets, but due to their special characteristics they are listed in a separate section.
+
+```
+# HomePage - CountryFlag - Langs|Currencies|PaymentMethods -  Exchange Features  - Some links
+  "Slogan "
+```
+<br>
+
+<!-- LocalBitcoins -->
+[![](http://www.google.com/s2/favicons?domain=https://www.localbitcoins.com/) **LocalBitcoins**](https://localbitcoins.com/?ch=rpkf) &nbsp;
+    ![](http://www.countryflags.io/FI/shiny/16.png "Finland; since 2012 by Nikolaus Kangas") [&#x25BE;](https://localbitcoins.com/) 
+    ![Languages](./img/language.png "English, Español, Français, Italiano, Russian, Português")
+    ![Currencies](./img/currency.png "Currencies: A lot of currencies are accepted, almost ANY country")
+    ![Payment Methods](./img/payment.png "Bank Transfers, Online Wallets, Pre-Paid Debit Cards, Remittance, Gift Card Codes, Other Payments // Other online payment, Cash by mail, Cashier's check, BPAY Bill Payment, Transferwise, Cash at ATM, Credit card, and more... or meet for a face to face transaction")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT available")
+    ![Sell](./img/sell.png "Sell for FIAT available")
+    [![ATM](./img/atm.png "Operating Your Own Bitcoin ATM")](https://localbitcoins.com/atm/order-your-own-bitcoin-atm)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://localbitcoins.com/fees)
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/LocalBitcoins)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/localbitcoins/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/LocalBitcoins)
+    [![API](./img/api.png "API")](https://localbitcoins.com/api-docs)
+    [![Careers](./img/careers.png "Careers")](https://localbitcoins.com/careers)
+    [![Bug Bounty](./img/bounty.png "Bug Bounty")](https://localbitcoins.com/whitehat)  
+    &nbsp; &nbsp; &nbsp;"Buy and sell bitcoins near you. Instant. Secure. Private. Multiple payment methods"
+
+<!-- PAXFUL -->
+[![](http://www.google.com/s2/favicons?domain=https://www.paxful.com) **PAXFUL**](https://paxful.com/es/roots/buy-bitcoin/index?affiliate=zGMky6AyQWb) &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "Nueva York, United States") [&#x25BE;](https://paxful.com) 
+    ![Languages](./img/language.png "English, Russian, Chinese, Spanish, French, Indonesian")
+    ![Currencies](./img/currency.png "Currencies: Almost ANY currencies!  More than 300 ways to pay")
+    ![Payment Methods](./img/payment.png "GIFT CARDS: Amazon, OneVanilla, Target, Walmart and many more
+    CASH DEPOSIT: Western Union, Moneygram, Bank of America Wells Fargo, COOP Credit Unions, TD BAnk, SEPA, National bank Transfers.
+    ONLINE WALLETS: **Paypal**, Skrill, Neteller, Serve to Serve transfer, OkPay, NetSpend, Paxum and other major online Wallets.
+    CREDIT/DEBIT CARDS: Your personal Visa, Mastercard, AmEx debit or credit cards.")
+    ![PayPal](./img/paypal.png "PayPal Accepted")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT available")
+    ![Sell](./img/sell.png "Sell for FIAT available")
+    [![Wallet](./img/wallet.png "Paxful wallet: With Paxful bitcoin wallet. We provide over 300 different payment options for purchasing bitcoins from gift cards to credit cards. ")](https://paxful.com/es/roots/buy-bitcoin/index?affiliate=zGMky6AyQWb)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://kb.paxful.com/knowledgebase/what-about-sending-out-bitcoins-from-my-wallet-and-the-bitcoin-network-miner-fees-who-pays-and-when/)
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/paxful)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/paxful)
+    [![API](./img/api.png "API")](https://paxful.com/developers)  
+    &nbsp; &nbsp; &nbsp;"Buy Bitcoins instantly. More than 300 ways to pay for bitcoins, including: [Gift cards, Cash Deposits, Online Transfers, Debit/Credit Cards]"
+
+<!-- Bitcoin.de -->
+[![](http://www.google.com/s2/favicons?domain=https://www.bitcoin.de) **Bitcoin.de**](https://www.bitcoin.de/en/r/2xd785) &nbsp;
+    ![](http://www.countryflags.io/DE/shiny/16.png "Germany") [&#x25BE;](https://www.bitcoin.de) 
+    ![Languages](./img/language.png "Deuch, English, Français, Italiano, Português")
+    ![Currencies](./img/currency.png "Currencies: EUR, USD")
+    ![Payment Methods](./img/payment.png "SEPA Bank transfer")
+    - &nbsp; 
+    [![Buy](./img/buy.png "Buy with FIAT available")](https://www.bitcoin.de/en/r/2xd785)
+    [![Sell](./img/sell.png "Sell for FIAT available")](https://www.bitcoin.de/en/r/2xd785)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://www.bitcoin.de/en/infos#gebuehren)
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitcoin_de)
+    [![API](./img/api.png "API")](https://www.bitcoin.de/es/api/price-widget)
+    [![Bug Bounty](./img/bounty.png "Bug Bounty - we reward your effort")](https://www.bitcoin.de/en/bug-bounty)  
+    &nbsp; &nbsp; &nbsp;"Bitcoin-Marketplace - Made in Germany"
+
+<!-- Remitano -->
+[![](http://www.google.com/s2/favicons?domain=https://www.remitano.com/) **Remitano**](https://remitano.com/es?ref=xtokens) &nbsp;
+    ![](http://www.countryflags.io/SC/shiny/16.png "Seychelles; since 2016") [&#x25BE;](https://remitano.com/) 
+    ![Languages](./img/language.png "English, Español")
+    ![Currencies](./img/currency.png "Currencies: You can buy or sell Bitcoins using your local fiat currencies with the people in your country through bank transfer")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")]()
+    ![Payment Methods](./img/payment.png "Bank transfer")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT available")
+    ![Sell](./img/sell.png "Sell for FIAT available")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://remitano.com/us/fees/?ref=xtokens)
+    &nbsp;
+    [![iOS app](./img/app-store.png "iOS app")](https://itunes.apple.com/us/app/remitano/id1116327021)
+    [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.remitano.remitano) 
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/remitano)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/remitano/)
+    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/Remitano)
+    [![Careers](./img/careers.png "Careers")](https://remitano.com/es/careers)  
+    &nbsp; &nbsp; &nbsp;"Remitano is a peer to peer Bitcoin exchange. Buy and Sell Bitcoin fast and securely. Trade between Bitcoin (BTC) and your local currency with local people online"
+
+<!-- LinkCoin -->
+[![](http://www.google.com/s2/favicons?domain=https://www.linkcoin.pro/) **LinkCoin**](https://www.linkcoin.pro?id=11353027) &nbsp;
+    ![](http://www.countryflags.io/TW/shiny/16.png "Taiwan") [&#x25BE;](https://www.linkcoin.pro/) 
+    ![Languages](./img/language.png "Chinese, English")
+    ![Currencies](./img/currency.png "Currencies: CNY, USD, HKD, JPY, CAD")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap: bibox.com")](https://coinmarketcap.com/exchanges/bibox/)
+    ![Payment Methods](./img/payment.png "Alipay, wechat, Credit/Debit Card, Interac, Other...")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT available")
+    ![Sell](./img/sell.png "Sell for FIAT available")
+    [![Exchange](./img/exchange.png "Exchange crypto-crypto: bibox.com")](https://www.bibox.com/login/register?id=11353027)
+    [![Trading](./img/trading.png "Trading: bibox.com")](https://www.bibox.com/login/register?id=11353027)
+    ![Wallet](./img/wallet.png "LinkCoin Wallet supports online custody for various mainstream digital assets")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://www.linkcoin.pro/standard)
+    &nbsp;
+    [![iOS app](./img/app-store.png "iOS app")](https://fir.im/zmya)
+    [![Android app](./img/google-play.png "Android app")](https://fir.im/zmya) 
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/LinkCoin_2017)  
+    &nbsp; &nbsp; &nbsp;"A secure platform for exchanging digital assets"
+
+<!-- localethereum -->
+[![](http://www.google.com/s2/favicons?domain=https://localethereum.com) **localethereum**](https://localethereum.com) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for KYC (email only)") &nbsp;
+    ![](http://www.countryflags.io/AU/shiny/16.png "Australia") &#x25BE; 
+    ![Languages](./img/language.png "English, Russian, Chinese, Español, Italian, Português, Indian")
+    ![Currencies](./img/currency.png "Currencies: Local currencies in 100+ countries")
+    ![Payment Methods](./img/payment.png "Multiple payment methods: PayPal, International wire, Gif card, S€PA transfer, Wertern Union, MoneyGram, Skrill, PAYEER, TransferWise, Venmo, Cash (in person), and more...")
+    ![PayPal](./img/paypal.png "PayPal")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT available")
+    ![Sell](./img/sell.png "Sell for FIAT available")
+    ![Security](./img/secure.png "Secure: transfers through smart contracts.
+    The keys to your ether are kept encrypted in your browser at all times.
+    The public and private keys of your wallet belong to you.
+    Your privacy is protected with encrypted messages.")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://localethereum.com/es/faq#are-there-any-fees)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/localethereum)  
+    &nbsp; &nbsp; &nbsp;"The smartest way to buy and sell ether. Localetheruem is a peer-to-peer Ethereum marketplace"
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
