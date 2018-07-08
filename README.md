@@ -3347,3 +3347,114 @@ Exchange Name | Margin Trading | Leverage | Lending | Futures | Options | CFD´s
 <!-- CoinSuper -->[![](http://www.google.com/s2/favicons?domain=https://www.coinsuper.com/) **CoinSuper**](https://www.coinsuper.com/) |  |  |  |  |  |  | &#x2713;
 <!-- RIGHTBTC -->[![](http://www.google.com/s2/favicons?domain=https://www.rightbtc.com/) **RIGHTBTC**](https://www.rightbtc.com/) |  |  |  |  |  |  | &#x2713;
 <!-- LakeBTC -->[![](http://www.google.com/s2/favicons?domain=https://www.lakebtc.com/) **LakeBTC**](https://www.lakebtc.com/?ref=1jqxif) |  |  |  |  |  |  | &#x2713;
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Cryptocurrency Investment Brokers
+
+Brokers of the traditional financial markets that also allow to invest in cryptocurrencies.
+
+<br>
+
+- [![](http://www.google.com/s2/favicons?domain=https://www.etoro.com/)&nbsp; **eToro**](https://etoro.tw/2I6mD0M) - We are the world's leading social trading network
+- [![](http://www.google.com/s2/favicons?domain=https://simplefx.com/)&nbsp; **SimpleFX**](https://simplefx.com/n/_6012) - SimpleFX is an ergonomic trading platform, providing traders across the globe with cutting edge technology, ultra light spreads and transparent conditions
+- [![](http://www.google.com/s2/favicons?domain=https://www.xtb.com/)&nbsp; **XBT**](https://www.xtb.com/) -XTB España es un broker online especializado en CFDS para inversión en Divisas, Acciones, Materias Primas, Índices y bonos
+- [![](http://www.google.com/s2/favicons?domain=https://www.avatrade.com/)&nbsp; **Avatrade**](https://www.avatrade.com/) - The fastest growing online trading portal offering over 250 FX Pairs,Commodities, Indices, Equities, Bonds & ETFs
+- [![](http://www.google.com/s2/favicons?domain=https://www.fxpro.com/)&nbsp; **FxPro**](https://www.fxpro.com/) - FxPro is an industry-leading online broker with 50+ UK & international awards. FCA, CySEC, FSB, DFSA & SCB regulated
+- [![](http://www.google.com/s2/favicons?domain=https://www.dukascopy.com)&nbsp; **Dukascopy**](https://www.dukascopy.com) - Dukascopy Bank is the leader in the foreign exchange industry, specialized in Spot Forex
+- [![](http://www.google.com/s2/favicons?domain=https://www.ig.com/)&nbsp; **IG**](https://www.ig.com/) - IG brinda acceso a miles de mercados con su servicio de CFD
+- [![](http://www.google.com/s2/favicons?domain=https://www.ibroker.es/)&nbsp; **iBroker**](https://www.ibroker.es/) - El broker online español especialista en derivados. DFDs LMAX sobre Criptomonedas
+- [![](http://www.google.com/s2/favicons?domain=https://www.activtrades.com/)&nbsp; **ActiveTrades**](https://www.activtrades.com/) - ActivTrades is a leading award-winning broker specialised in Forex, CFDs and Spread Betting
+- [![](http://www.google.com/s2/favicons?domain=https://admiralmarkets.com/)&nbsp; **AdmiralMarkets**](https://admiralmarkets.com/) - Access to financial markets. Easy
+- [![](http://www.google.com/s2/favicons?domain=https://www.gkfx.com/)&nbsp; **GKFX**](https://www.gkfx.com/) - GKFX is your FCA regulated trading partner
+- [![](http://www.google.com/s2/favicons?domain=https://www.clicktrade.es/)&nbsp; **CLICKTRADE**](https://www.clicktrade.es/) - Broker online de Acciones y Derivados, (Futuros, Opciones, CFDs y Forex)
+- [![](http://www.google.com/s2/favicons?domain=https://www.tmseurope.es/)&nbsp; **TMS**](https://www.tmseurope.es/) - BITCOIN Futures CFD - invest with TMS Brokers!
+- [![](http://www.google.com/s2/favicons?domain=https://www.axitrader.com/)&nbsp; **AXITRADER**](https://www.axitrader.com/) - Trade Forex with a Leading Global Broker. We're founded by traders, so we've built AxiTrader to be the Forex broker that we've wanted to trade with ourselves
+- [![](https://eu.iqoption.com/assets/images/favicons/favicon-16x16.png?v=XBBobPBryW)&nbsp; **IQ Option**](https://iqoption.com/) - Simple and secure trading platform
+- [![](http://www.google.com/s2/favicons?domain=https://www.ufx.com/)&nbsp; **UFX**](https://www.ufx.com/) - Leading online broker that provides trading services in currencies, commodities, indices and CFDs
+- [![](http://www.google.com/s2/favicons?domain=https://www.plus500.com/)&nbsp; **Plus500**](https://www.plus500.com/) - Trade Shares, Indices, Commodities and Forex through our CFD service
+- [![](http://www.google.com/s2/favicons?domain=https://www.nagamarkets.com/)&nbsp; **Naga Brokers**](https://www.nagamarkets.com/) - Multi-Asset Regulated Broker. We support 10+ languages
+- [![](http://www.google.com/s2/favicons?domain=https://www.vantagefx.com/)&nbsp; **Vantage FX**](https://www.vantagefx.com/) - Australian, ECN Forex Broker offering clients FX, Indices and Commodities trading via MT4
+- [![](http://www.google.com/s2/favicons?domain=https://www.blackwellglobal.com/)&nbsp; **Blackwell Global UK**](https://www.blackwellglobal.com/) - Trade Forex, Cryptos, Indices and Commodities at Blackwell Global
+- [![](http://www.google.com/s2/favicons?domain=https://www.lmax.com/)&nbsp; **LMAX**](https://www.lmax.com/) - Leading the global FX industry transformation to transparent and fair execution
+- [![](http://www.google.com/s2/favicons?domain=https://www.umarkets.com/)&nbsp; **Umarkets**](https://www.umarkets.com/) - International Forex brokerage firm offering top trading conditions
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Crypto&#8596;Crypto conversion platforms
+
+<small>[ no trading, no FIAT, no account required, not have to deposit funds or provide private personal information ]</small>
+
+Conversion platforms are not decentralized nor do they have advanced trading tools but allow the exchange of cryptocurrencies without the need to register or deposit funds. Some also make a comparison between different exchanges to perform the conversion at the best rate.
+
+```
+# HomePage - CountryFlag - Langs -  Exchange Features  - Some links
+  "Slogan "
+```
+<br>
+
+<!-- switchain -->
+[![](http://www.google.com/s2/favicons?domain=https://www.switchain.com/) **switchain**](https://www.switchain.com/join?referrer=S5h578eWhReR) &nbsp;
+    ![Anonymous](./img/incognito.png "Users do not have to create accounts, deposit funds, or provide private personal information") &nbsp;
+    ![](http://www.countryflags.io/SG/shiny/16.png "Singapore") [&#x25BE;](https://www.switchain.com/) 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://www.switchain.com/faq)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/switchaindotcom)  
+    &nbsp; &nbsp; &nbsp;"Switchain helps you compare rates across cryptocurrency exchanges"
+
+<!-- COINSWITCH -->
+[![](http://www.google.com/s2/favicons?domain=https://coinswitch.co/) **COINSWITCH**](https://coinswitch.co/?ref=PL7ZTO3XSS)) &nbsp;
+    ![Anonymous](./img/incognito.png "Users do not have to login for most transactions") &nbsp;
+    ![](http://www.countryflags.io/IN/shiny/16.png "India") [&#x25BE;](https://coinswitch.co/) 
+    ![Languages](./img/language.png "A lot of languages!")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT through partners ")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://coinswitch.co/#!What-is-CoinSwitch-transaction-fees)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/coinswitch)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/coinswitch/)
+    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/coinswitch/)
+    [![API](./img/api.png "API")](https://coinswitch.docs.apiary.io/)
+    [![Careers](./img/careers.png "Careers")](https://angel.co/coinswitch-co/jobs)  
+    &nbsp; &nbsp; &nbsp;"One place to convert your cryptocurrencies across all exchanges at the best rate. We support more than 275 cryptocurrencies to exchange"
+
+<!-- evercoin -->
+[![](http://www.google.com/s2/favicons?domain=https://evercoin.com/) **evercoin**](https://evercoin.com/)) &nbsp;
+    ![Anonymous](./img/incognito.png "No account required, not have to deposit funds, or provide private personal information") &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "Santa Clara, California, United States") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://evercoin.com/faq)
+    &nbsp;
+    [![iOS app](./img/app-store.png "iOS app")](https://itunes.apple.com/us/app/evercoin/id1277924158)
+    [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.evercoin)&nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/everc0in)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/Everc0in)
+    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/evercoin)  
+    &nbsp; &nbsp; &nbsp;"Cryptocurrency Exchange. Exchange cryptos on-the-go directly from your own mobile wallet"
+
+<!-- My Ether Wallet -->
+[![](http://www.google.com/s2/favicons?domain=https://www.myetherwallet.com/) **My Ether Wallet**](https://www.myetherwallet.com/#swap) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Anonymous Transactions") &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "Los Angeles, CA, United States") &#x25BE; 
+    ![Languages](./img/language.png "A lot of languages!")
+    - &nbsp; 
+    [![Wallet](./img/wallet.png "Wallet")](https://www.myetherwallet.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://kb.myetherwallet.com/gas/)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/myetherwallet)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/MyEtherWallet/)
+    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/myetherwallet)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/MyEtherWallet)
+    [![API](./img/api.png "API")](https://github.com/MyEtherWallet/myetherapi)  
+    &nbsp; &nbsp; &nbsp;"The most popular Ether wallet with built-in exchange.
+    MyEtherWallet is an open-source, client-side tool for interacting with the blockchain"
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
