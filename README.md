@@ -2935,3 +2935,374 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
+### Decentralized Exchanges (DEX)
+
+A decentralized exchange is an exchange market that does not rely on a third party service to hold the customer's funds. Instead, trades occur directly between users (peer to peer) through an automated process. Users no need to deposit funds. The funds are held by you in your personal wallet and not by a third party.
+
+Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is selling or buying from you.
+
+- [Understanding a Decentralized Exchange](https://www.cryptocompare.com/exchanges/guides/what-is-a-decentralized-exchange/) - by TheBlocknet
+- [Understanding Decentralized Exchanges](https://hackernoon.com/understanding-decentralized-exchanges-51b70ed3fe67) - by Dominiek Ter Heide
+
+```
+# HomePage - CountryFlag - Langs|Currencies|Markets|PaymentMethods -  Exchange Features  - Some links
+  "Slogan "
+```
+<br>
+
+<!-- bisq -->
+[![](http://www.google.com/s2/favicons?domain=https://bisq.network/) **bisq**](https://bisq.network/) &nbsp;
+    ![Anonymous](./img/incognito.png "Private: no one except trading partners exchange personally identifying data. All personal data is stored locally") &nbsp;
+    &#x25BE; 
+    ![Languages](./img/language.png "English")
+    [![Currencies](./img/currency.png "Currencies: multicurrency and multiple payment methods **including FIAT**")](https://bisq.network/faq/)
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/bisq/)
+    ![Payment Methods](./img/payment.png "National bank transfer
+              Cash Deposit
+              SEPA
+              SEPA Instant
+              MoneyBeam (N26)
+              Zelle (formerly known as clearXchange)
+              Chase QuickPay
+              Uphold
+              Cash App
+              Venmo
+              Popmoney
+              Revolut
+              Faster Payments
+              US Postal Money Order
+              Interac e-Transfer
+              Swish
+              Western Union
+              OKPay
+              Perfect Money
+              Alipay
+              Transfer with same bank
+              Transfer with specific banks")
+    - &nbsp; 
+    ![Buy](./img/buy.png "Buy with FIAT available")
+    ![Sell](./img/sell.png "Sell for FIAT available")
+    ![Security](./img/secure.png "Secure – end-to-end encrypted communication routed over Tor")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://bisq.network/faq/#6)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitsquare_)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/bisq)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/bisq-network)
+    [![Bug Bounty](./img/bounty.png "Bounty program")](https://forum.bitsquare.io/t/bitsquare-bounties-rule-set-and-overview/220)  
+    &nbsp; &nbsp; &nbsp;"The P2P decentralized exchange network. Open-source desktop application to buy and sell bitcoins"
+
+<!-- BitShares -->
+[![](http://www.google.com/s2/favicons?domain=https://bitshares.org/) **BitShares**](https://bitshares.org/) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Fast and Anonymous Transactions") &nbsp;
+    &#x25BE; 
+    ![Languages](./img/language.png "English, Français, Russian, Español, Turkey, Czech")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/bitshares-asset-exchange/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "BTS Token")](https://coinmarketcap.com/currencies/bitshares/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://wallet.bitshares.org/#/explorer/fees)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitshares)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/BitShares)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/bitshares)
+    [![API](./img/api.png "API")](http://docs.bitshares.org/api/)  
+    &nbsp; &nbsp; &nbsp;"Offers a stack of financial services including exchange and banking on a blockchain. SmartCoins, price-stable cryptocurrencies"
+
+<!-- Openledger -->
+[![](http://www.google.com/s2/favicons?domain=https://openledger.io) **Openledger**](https://dex.openledger.io/) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Fast and Anonymous Transactions") &nbsp;
+    ![](http://www.countryflags.io/DK/shiny/16.png "Denmark") &#x25BE; 
+    ![Languages](./img/language.png "English, Chinese, Français, Deutsch, Japanese, Turkey, Russian, Korean, Vietnamese")
+    ![Currencies](./img/currency.png "Currencies: ?")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/openledger/)
+    - &nbsp; 
+    ![Exchange Coin](./img/excoin.png "OBITS Token")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://openledger.freshdesk.com/support/solutions/articles/33000220198-fee-structure-on-openledger-)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/OpenLedgerDC)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/openledger)  
+    &nbsp; &nbsp; &nbsp;"Your personal gateway to invest, trade and manage your portfolio"
+
+<!-- CryptoBridge -->
+[![](http://www.google.com/s2/favicons?domain=https://www.crypto-bridge.org/) **CryptoBridge**](https://www.crypto-bridge.org/) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Fast and Anonymous Transactions") &#x25BE; 
+    ![Languages](./img/language.png "")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/cryptobridge/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "BCO Token")](https://bridgecoin.org/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://medium.com/@cryptobridge/cryptobridge-fees-explained-8731e8a4ded9)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/cryptobridge)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/CryptoBridge/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/CryptoBridge/)
+    [![API](./img/api.png "CryptoBridge runs on top of Bitshares and as a result you can use the Bitshares API to trade on CryptoBridge")](http://docs.bitshares.org/api/)  
+    &nbsp; &nbsp; &nbsp;"CryptoBridge is a decentralized exchange in the hands of BridgeCoin owners"
+
+<!-- IDEX -->
+[![](http://www.google.com/s2/favicons?domain=https://idex.market) **IDEX**]() &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Anonymous Transactions") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/idex/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "IDEX Membership Token IDXM")](https://coinmarketcap.com/es/currencies/idex-membership/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://idex.market/faq#fee)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/aurora_dao)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/auroradao/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/AuroraDAO/idex)
+    [![API](./img/api.png "API")](https://github.com/AuroraDAO/idex-api-docs)  
+    &nbsp; &nbsp; &nbsp;"Decentralized Ethereum Asset Exchange"
+
+<!-- EtherDelta -->
+[![](http://www.google.com/s2/favicons?domain=https://etherdelta.com) **EtherDelta**](https://etherdelta.com) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Anonymous Transactions") &#x25BE; 
+    ![Languages](./img/language.png "English, Chinese, Français, Español, Korean")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/forkdelta/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "EtherDelta Token EDT")](https://coinmarketcap.com/es/currencies/etherdelta-token/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://www.reddit.com/r/EtherDelta/comments/6hrvwl/how_fees_work/)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/EtherDelta)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/EtherDelta)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/etherdelta)
+    [![API](./img/api.png "API")](https://github.com/etherdelta/etherdelta.github.io/blob/master/docs/API.md)  
+    &nbsp; &nbsp; &nbsp;"Fully decentralized trading platform for ERC20 Tokens"
+
+<!-- FokDelta -->
+[![](http://www.google.com/s2/favicons?domain=https://forkdelta.github.io) **FokDelta**](https://forkdelta.github.io) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Anonymous Transactions") &#x25BE; 
+    ![Languages](./img/language.png "English, Chinese, Français, Español, Korean")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/currencies/etherdelta-token/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "EtherDelta Token EDT")](https://coinmarketcap.com/es/currencies/etherdelta-token/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://forkdelta.github.io/about/)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/ForkDelta)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/ForkDelta)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/forkdelta/)
+    [![API](./img/api.png "API")](https://github.com/forkdelta/backend-replacement/tree/master/docs/api)  
+    &nbsp; &nbsp; &nbsp;"ForkDelta is a decentralized Ethereum Token Exchange. We have the most tokens and the highest liquidity! Start trading cryptocurrency today"
+
+<!-- Ethfinex -->
+[![](http://www.google.com/s2/favicons?domain=https://www.ethfinex.com/) **Ethfinex**](https://www.ethfinex.com/) &nbsp;
+    ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Anonymous Transactions") &#x25BE; 
+    ![Languages](./img/language.png "English, Russian, Chinese")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/ethfinex/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "Nectar tokens NEC")](https://coinmarketcap.com/es/currencies/nectar/)
+    [![Margin Trading](./img/margin.png "Margin Trading")](https://www.ethfinex.com/features)
+    [![Lending](./img/lending.png "Marging Financing")](https://www.ethfinex.com/features)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://www.ethfinex.com/fees)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/ethfinex)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/ethfinex/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/ethfinex)
+    [![API](./img/api.png "API")](https://www.ethfinex.com/api_docs)
+    [![Careers](./img/careers.png "Careers")](https://www.ethfinex.com/careers)  
+    &nbsp; &nbsp; &nbsp;"The home of digital tokens trading & discussion. Built for the Ethereum community, using Ethereum"
+
+<!-- DDEX -->
+[![](http://www.google.com/s2/favicons?domain=https://ddex.io) **DDEX**](https://ddex.io) &nbsp;
+    ![Anonymous](./img/incognito.png "No sign up & Anonymous Transactions, Private, No need to deposit funds in exchange.") &#x25BE; 
+    ![Languages](./img/language.png "English, Chinese, Korean, Japanese")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/ddex/)
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://support.ddex.io/hc/en-us/articles/115004535333-Fees)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/ddex_io)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/ddex/)
+    [![API](./img/api.png "API")](https://docs.ddex.io/)  
+    &nbsp; &nbsp; &nbsp;"The Most User-Friendly Decentralized Exchange For Ethereum-Based ERC20 Token" 
+
+<!-- RADAR Relay -->
+[![](http://www.google.com/s2/favicons?domain=https://radarrelay.com/) **RADAR Relay**](https://radarrelay.com/) &nbsp;
+    ![Anonymous](./img/incognito.png "No sign up & Anonymous Transactions, Private, No Signups, No Deposits, No Withdrawals, Off-Chain Orderbook, Interoperable, Wallet Integration")  &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "United States")&#x25BE; 
+    ![Languages](./img/language.png "English")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/radar-relay/)
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://radarrelay.com/terms/)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/radarrelay)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/RadarRelay)
+    [![API](./img/api.png "API")](https://developers.radarrelay.com/)
+    [![Careers](./img/careers.png "Careers")](https://radarrelay.com/team/)  
+    &nbsp; &nbsp; &nbsp;"A wallet-to-wallet token trading platform. Trade Ethereum tokens directly from your wallet. No middleman" 
+
+<!-- PARADEX -->
+[![](http://www.google.com/s2/favicons?domain=https://paradex.io/) **PARADEX**](https://paradex.io/) &nbsp;
+    ![Anonymous](./img/incognito.png "No custodianship, No account sign-ups, no compromises, Anonymous Transactions, No need to deposit, bring your own wallet") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees: see on 'Help & Feedback' section")](https://app.paradex.io/)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/ParadexIO)
+    [![API](./img/api.png "API")](https://github.com/ParadexRelayer/Consumer-API-docs)  
+    &nbsp; &nbsp; &nbsp;"Unparalleled ERC20 relayer. Trade trustlessly using your own wallet. No custodianship, no account sign-ups, no compromises." 
+
+<!-- ERC dEX -->
+[![](https://i.imgur.com/mg1tUs4.jpg) **ERC dEX**](https://ercdex.com/) &nbsp;
+    ![Anonymous](./img/incognito.png "No sign up & Anonymous Transactions, Private, No deposit or registration required") &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "Austin, TX, United States") &#x25BE; 
+    ![Languages](./img/language.png "English, Español, Chinese, Russian")
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://ercdex.com/fees)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/ercdex)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/ercdex/)
+    [![GitHub](./img/github.png "GitHub")](https://www.linkedin.com/company/25075800/)
+    [![Linkedin](./img/in.png "Linkedin")](https://github.com/ERCdEX)
+    [![API](./img/api.png "API")](https://aqueduct.ercdex.com/)
+    [![Careers](./img/careers.png "Careers")](careers@ercdex.com)  
+    &nbsp; &nbsp; &nbsp;"Peer-to-peer trading on Ethereum. Creating an incentive-driven, globally shared liquidity pool, Aqueduct. Built on 0x" 
+
+<!-- Tokenlon -->
+[![](http://www.google.com/s2/favicons?domain=https://token.im/) **Tokenlon**](https://tokenlon.token.im/) &nbsp;
+    ![](http://www.countryflags.io/SG/shiny/16.png "Singapore") &#x25BE; 
+    ![Languages](./img/language.png "English, Chinese")
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![Wallet](./img/wallet.png "Built-in wallet, support multiple types of digital wallet")](https://tokenlon.token.im/wallet)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://help-center.token.im/hc/article/360002069334)
+    &nbsp;
+    [![iOS app](./img/app-store.png "iOS app")](https://itunes.apple.com/us/app/imtoken2/id1384798940)
+    [![Android app](./img/google-play.png "Android app")](https://tokenlon.token.im/download)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/imTokenOfficial)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/imToken/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/consenlabs)
+    [![API](./img/api.png "API")](https://docs.token.im/)
+    [![Careers](./img/careers.png "Careers")](https://tokenlon.token.im/careers)  
+    &nbsp; &nbsp; &nbsp;"Using blockchain smart contract technology to achieve seamless atomic token-to-token exchanges. Without ever leaving your wallet. Instant Exchange by Kyber Network; Orderbook Trading by 0xprotocol" 
+
+<!-- SHARKRELAY -->
+[![](http://www.google.com/s2/favicons?domain=https://sharkrelay.com/) **SHARKRELAY**](https://sharkrelay.com/) &nbsp;
+    ![Anonymous](./img/incognito.png "No deposit or registration required, No identity verification, Secure") &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "New York, United States") &#x25BE; 
+    ![Languages](./img/language.png "")
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://sharkrelay.com/faq)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/SharkRelay)
+    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/sharkrelay/)
+    [![API](./img/api.png "API")](https://sharkrelay.com/api)
+    [![Careers](./img/careers.png "Careers")](https://angel.co/sharkrelay/jobs)  
+    &nbsp; &nbsp; &nbsp;"Wallet to wallet token trading platform utilizing the power of 0x" 
+
+<!-- altcoin.io -->
+[![](http://www.google.com/s2/favicons?domain=https://www.altcoin.io/) **altcoin.io**](https://www.altcoin.io?kid=NZYGW) <sub>(Beta)</sub> &nbsp;
+    ![Anonymous](./img/incognito.png "No deposit or registration required, No identity verification, Private, Truly Secure, 100% token control") &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "San Diego, California, United States") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    ![Atomic](./img/atomics.png "Atomic Swap Technology")
+    &nbsp; -
+    ![Fees](./img/fees.png "fees: not yet specified")]
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/altcoin_io)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/AltCoinExchange/ethatomicswap)  
+    &nbsp; &nbsp; &nbsp;"A truly decentralized and secure cryptocurrency exchange powered by Atomic Swaps. Launching 2018" 
+
+<!-- IDT -->
+[![](http://www.google.com/s2/favicons?domain=http://www.idtexchange.com) **IDT**](http://www.idtexchange.com) <sub>(Developing)</sub> &nbsp;
+    ![Anonymous](./img/incognito.png "Private, Anonymous Transactions, No deposit or registration required, 100% Compilant and Secure") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    &nbsp; -
+    ![Fees](./img/fees.png "fees: not yet specified")
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/IDTExchange)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/user/IDTExchange/)
+    [![Careers](./img/careers.png "Careers")](http://www.idtexchange.com/#careers)  
+    &nbsp; &nbsp; &nbsp;"IDT Exchange lets you start trading tokens today. No deposit or custody, 100% compliant & secure" 
+
+<!-- AIRSWAP -->
+[![](http://www.google.com/s2/favicons?domain=https://www.airswap.io) **AIRSWAP**](https://www.airswap.io) &nbsp;
+    ![Anonymous](./img/incognito.png "Private, No deposit or registration required, No identity verification") &nbsp;
+    ![](http://www.countryflags.io/US/shiny/16.png "Brooklyn, NY, United States") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "AirSwap Token AST")](https://coinmarketcap.com/es/currencies/airswap/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://www.airswap.io/faq)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/airswap)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/AirSwap/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/airswap)  
+    &nbsp; &nbsp; &nbsp;"Secure and scalable ERC20 token trading infrastructure" 
+
+<!-- SAFEX -->
+[![](http://www.google.com/s2/favicons?domain=https://safex.io) **SAFEX**](https://safex.io/getsafex/0xtokens) <sub>(Developing)</sub> &nbsp;
+    ![Anonymous](./img/incognito.png "Anonymous") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "SAFEX Token")](https://coinmarketcap.com/es/currencies/safe-exchange-coin/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees: not yet specified")]()
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/safe_exchange)
+    [![reddit](./img/reddit.png "reddit")](https://reddit.com/r/safex)
+    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company-beta/5945125/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/safex)
+    &nbsp; &nbsp; &nbsp;"Anonymous Decentralized Marketplace on the Blockchain" 
+
+<!-- BARTERDEX -->
+[![](http://www.google.com/s2/favicons?domain=http://www.barterdex.com/) **BARTERDEX**](http://www.barterdex.com/) <sub>(Beta)</sub> &nbsp;
+    ![Anonymous](./img/incognito.png "Anonymous, Private (ZCash Fork)") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/barterdex/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "Komodo Token KMD")](https://coinmarketcap.com/currencies/komodo/)
+    ![Atomic](./img/atomics.png "Atomic Swap Technology")
+    [![Wallet](./img/wallet.png "Komodo Wallets")](https://komodoplatform.com/komodo-wallets/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://komodoplatform.com/faqs/#)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Barterdex)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/komodoplatform)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/KomodoPlatform)
+    [![API](./img/api.png "API")](https://docs.komodoplatform.com/en/latest/)
+    [![Careers](./img/careers.png "Careers")](https://www.komodoplatform.com/careers)  
+    &nbsp; &nbsp; &nbsp;"A decentralized exchange that supports over 95% of coins. A launch pad for blockchain businesses to create independent chains. A coin with privacy features. **Liquidity Multiplier:** Place simultanious multiple orders for many different coins using the same funds."
+
+<!-- BLOCKNET -->
+[![](http://www.google.com/s2/favicons?domain=https://www.blocknet.co) **BLOCKNET**](https://www.blocknet.co) <sub>(Developing)</sub> &nbsp;
+    ![Anonymous](./img/incognito.png "Anonymous, Trustless Nodes, No Account, Trading Pair Freedom") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "Blocknet token BLOCK")](https://coinmarketcap.com/es/currencies/blocknet/)
+    ![Atomic](./img/atomics.png "Atomic Swap Technology")
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://docs.google.com/document/d/1FOtlZN9cITzRKIDSOaPuVRyB4-lVXVw4VUJjCuDSzYU/preview)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/The_Blocknet)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/theblocknet/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/BlocknetDX/)
+    [![API](./img/api.png "API")](https://api.blocknet.co/)  
+    &nbsp; &nbsp; &nbsp;"Block DX is a truly decentralized exchange that enables trading freedom for connected blockchain communities. Listing on Block DX is free and does not require our permission or control"
+
+<br>
+
+> [<small>List of exchanges not yet reviewed</small>](#)
+
+<br>
+
