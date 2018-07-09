@@ -1,11 +1,18 @@
-<!-- Congrats on creating an Awesome list! 🎉 -->
+<!-- Congrats on contribute to this Awesome list! 🎉 -->
 
 
-<!-- Please fill in the below placeholders -->
+<!-- Please fill in the below checkbox and placeholders -->
 
-**[Insert URL to the list here]**
+- [ ] New link
 
-**[Explain what this list is about and why it should be included here]**
+    **[Insert URL to the link here]**
+
+    **[Explain what this link is about and why it should be included here]**
+
+Other improvements?
+
+- [ ] Bug fix/Broken link
+- [ ] Improve this list
 
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
