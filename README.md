@@ -3316,37 +3316,37 @@ Coming soon...
 
 Exchange Name | Margin Trading | Leverage | Lending | Futures | Options | CFD´s | OTC Market
 :--: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-<!-- BitMEX -->[![](http://www.google.com/s2/favicons?domain=https://www.bitmex.com) **BitMEX**](https://www.bitmex.com/register/BG4liN) | &#x2713; | 100x | &#x2713; | &#x2713; | &#x2713; |  |
-<!-- Deribit -->[![](http://www.google.com/s2/favicons?domain=https://www.deribit.com/) **Deribit**](https://www.deribit.com/reg-1132.3380?q=home) | &#x2713; | 50x | &#x2713; | &#x2713; | &#x2713; |  | &#x2713;
-<!-- Quedex -->[![](http://www.google.com/s2/favicons?domain=https://www.quedex.net) **Quedex**](https://quedex.net?referralToken=765ac8f5ea5eb424) | &#x2713; | 25x | &#x2713; | &#x2713; | &#x2713; |  | 
-<!-- QUOINEX -->[![](http://www.google.com/s2/favicons?domain=https://www.quoinex.com/ "FIAT-crypto exchange platform, qryptos.com is trading platform (both are exchange platforms by Quoine)") **QUOINEX**](https://accounts.quoinex.com/sign-up?affiliate=dmcqpdsw533625) | &#x2713; | 25x | &#x2713; | &#x2713; |  |  | 
-<!-- OKCoin -->[![](http://www.google.com/s2/favicons?domain=https://www.okcoin.com/) **OKCoin**](https://www.okcoin.com/) | &#x2713; | 3x? |  | &#x2713; |  |  | 
-<!-- bitFlyer -->[![](http://www.google.com/s2/favicons?domain=https://bitflyer.jp/en-eu?top_link) **bitFlyer**](https://bitflyer.jp/en-eu?top_link) | &#x2713; | 15x |  | &#x2713; |  |  | 
-<!-- Bitfinex -->[![](http://www.google.com/s2/favicons?domain=https://www.bitfinex.com/) **Bitfinex**](https://www.bitfinex.com/) | &#x2713; | 3.3x | &#x2713; |  |  |  | &#x2713;
-<!-- OKEX -->[![](http://www.google.com/s2/favicons?domain=https://www.okex.com) **OKEX**](https://www.okex.com) | &#x2713; | 20x |  | &#x2713; |  |  | &#x2713;
-<!-- HitBtc -->[![](http://www.google.com/s2/favicons?domain=https://www.hitbtc.com/) **HitBtc**](https://hitbtc.com/?ref_id=5aeb804da543d) | &#x2713; | ? | &#x2713; |  |  |  | &#x2713;
-<!-- Bibox -->[![](http://www.google.com/s2/favicons?domain=https://www.bibox.com/) **Bibox**](https://www.bibox.com/login/register?id=11353027&lang=en) | &#x2713; | ? | &#x2713; |  |  |  | 
-<!-- Poloniex -->[![](http://www.google.com/s2/favicons?domain=https://www.poloniex.com/) **Poloniex**](https://poloniex.com/) | &#x2713; | ? | &#x2713; |  |  |  | 
-<!-- Mercatox -->[![](http://www.google.com/s2/favicons?domain=https://www.mercatox.com/) **Mercatox**](https://mercatox.com/?referrer=319712) | &#x2713; | ? | &#x2713; |  |  |  | 
-<!-- Ethfinex -->[![](http://www.google.com/s2/favicons?domain=https://www.ethfinex.com/) **Ethfinex**](https://www.ethfinex.com/) &nbsp;![Dex](./img/dex.png "DEX Exchange") | &#x2713; | 3.3x | &#x2713; |  |  |  | 
-<!-- Liqui -->[![](http://www.google.com/s2/favicons?domain=https://www.liqui.io/) **Liqui**](https://liqui.io/) | &#x2713; | ? | <small>(coming soon)</small> |  |  |  | 
-<!-- Huobi -->[![](http://www.google.com/s2/favicons?domain=https://www.huobi.pro/) **Huobi**](https://www.huobi.br.com/es-es/topic/invited/?invite_code=kch93) | &#x2713; | ? |  |  |  |  | &#x2713;
-<!-- ZB -->[![](http://www.google.com/s2/favicons?domain=https://www.zb.com/) **ZB**](https://www.zb.com/) | &#x2713; | 3x |  |  |  |  | &#x2713;
-<!-- COBINHOOD -->[![](http://www.google.com/s2/favicons?domain=https://www.cobinhood.com) **COBINHOOD**](https://cobinhood.com/home?referrerId=1bcf66fa-2af4-44ec-8d0c-544e0cd04322) | &#x2713; | 10x |  |  |  |  | 
-<!-- Kraken -->[![](http://www.google.com/s2/favicons?domain=https://www.kraken.com/) **Kraken**](https://www.kraken.com/) | &#x2713; | 5x |  |  |  |  | 
-<!-- CEX -->[![](http://www.google.com/s2/favicons?domain=https://www.cex.io) **CEX**](https://cex.io/r/0/up120089788/0/) | &#x2713; | ? |  |  |  |  | 
-<!-- BTCC -->[![](http://www.google.com/s2/favicons?domain=https://www.btcc.com) **BTCC**](https://www.btcc.com/home) | &#x2713; | ? |  |  |  |  | 
-<!-- GDAX -->[![](http://www.google.com/s2/favicons?domain=https://www.gdax.com/ "Coinbase trading platform") **GDAX**](https://www.gdax.com/) | [&#x2713;](https://blog.coinbase.com/gdax-adds-margin-trading-27fea7ad53ea) ? [&#x237B;](https://support.pro.coinbase.com/customer/en/portal/articles/2936521-frequently-asked-questions-faq-?b_id=17474) |  |  |  |  |  | 
-<!-- Zaif -->[![](http://www.google.com/s2/favicons?domain=https://zaif.jp/) **Zaif**](https://zaif.jp/) | &#x2713; | ? |  |  |  |  | 
-<!-- bitbank -->[![](http://www.google.com/s2/favicons?domain=https://bitbank.cc/) **bitbank**](https://bitbank.cc/) | &#x2713; | ? |  |  |  |  | 
-<!-- Fisco -->[![](http://www.google.com/s2/favicons?domain=https://fcce.jp/) **Fisco**](https://fcce.jp/) | <small>(coming soon)</small> |  |  |  |  |  | 
-<!-- Bit-z -->[![](http://www.google.com/s2/favicons?domain=https://www.bit-z.pro/) **Bit-z**](https://www.bit-z.pro/user/signup?pid=2047161) |  |  |  |  |  |  | &#x2713;
-<!-- Simex -->[![](http://www.google.com/s2/favicons?domain=https://www.simex.global/en) **Simex**](https://simex.global/en/smx/30635) |  |  |  |  |  |  | &#x2713;
-<!-- itBit -->[![](http://www.google.com/s2/favicons?domain=https://www.itbit.com/) **itBit**](https://www.itbit.com/) |  |  |  |  |  |  | &#x2713;
-<!-- TopBtc -->[![](http://www.google.com/s2/favicons?domain=https://www.topbtc.com/) **TopBtc**](https://www.topbtc.one/?invit=240611) |  |  |  |  |  |  | &#x2713;
-<!-- CoinSuper -->[![](http://www.google.com/s2/favicons?domain=https://www.coinsuper.com/) **CoinSuper**](https://www.coinsuper.com/) |  |  |  |  |  |  | &#x2713;
-<!-- RIGHTBTC -->[![](http://www.google.com/s2/favicons?domain=https://www.rightbtc.com/) **RIGHTBTC**](https://www.rightbtc.com/) |  |  |  |  |  |  | &#x2713;
-<!-- LakeBTC -->[![](http://www.google.com/s2/favicons?domain=https://www.lakebtc.com/) **LakeBTC**](https://www.lakebtc.com/?ref=1jqxif) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.bitmex.com) **BitMEX**](https://www.bitmex.com/register/BG4liN) | &#x2713; | 100x | &#x2713; | &#x2713; | &#x2713; |  |
+[![](http://www.google.com/s2/favicons?domain=https://www.deribit.com/) **Deribit**](https://www.deribit.com/reg-1132.3380?q=home) | &#x2713; | 50x | &#x2713; | &#x2713; | &#x2713; |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.quedex.net) **Quedex**](https://quedex.net?referralToken=765ac8f5ea5eb424) | &#x2713; | 25x | &#x2713; | &#x2713; | &#x2713; |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.quoinex.com/ "FIAT-crypto exchange platform, qryptos.com is trading platform (both are exchange platforms by Quoine)") **QUOINEX**](https://accounts.quoinex.com/sign-up?affiliate=dmcqpdsw533625) | &#x2713; | 25x | &#x2713; | &#x2713; |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.okcoin.com/) **OKCoin**](https://www.okcoin.com/) | &#x2713; | 3x? |  | &#x2713; |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://bitflyer.jp/en-eu?top_link) **bitFlyer**](https://bitflyer.jp/en-eu?top_link) | &#x2713; | 15x |  | &#x2713; |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.bitfinex.com/) **Bitfinex**](https://www.bitfinex.com/) | &#x2713; | 3.3x | &#x2713; |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.okex.com) **OKEX**](https://www.okex.com) | &#x2713; | 20x |  | &#x2713; |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.hitbtc.com/) **HitBtc**](https://hitbtc.com/?ref_id=5aeb804da543d) | &#x2713; | ? | &#x2713; |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.bibox.com/) **Bibox**](https://www.bibox.com/login/register?id=11353027&lang=en) | &#x2713; | ? | &#x2713; |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.poloniex.com/) **Poloniex**](https://poloniex.com/) | &#x2713; | ? | &#x2713; |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.mercatox.com/) **Mercatox**](https://mercatox.com/?referrer=319712) | &#x2713; | ? | &#x2713; |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.ethfinex.com/) **Ethfinex**](https://www.ethfinex.com/) &nbsp;![Dex](./img/dex.png "DEX Exchange") | &#x2713; | 3.3x | &#x2713; |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.liqui.io/) **Liqui**](https://liqui.io/) | &#x2713; | ? | <small>(coming soon)</small> |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.huobi.pro/) **Huobi**](https://www.huobi.br.com/es-es/topic/invited/?invite_code=kch93) | &#x2713; | ? |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.zb.com/) **ZB**](https://www.zb.com/) | &#x2713; | 3x |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.cobinhood.com) **COBINHOOD**](https://cobinhood.com/home?referrerId=1bcf66fa-2af4-44ec-8d0c-544e0cd04322) | &#x2713; | 10x |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.kraken.com/) **Kraken**](https://www.kraken.com/) | &#x2713; | 5x |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.cex.io) **CEX**](https://cex.io/r/0/up120089788/0/) | &#x2713; | ? |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.btcc.com) **BTCC**](https://www.btcc.com/home) | &#x2713; | ? |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.gdax.com/ "Coinbase trading platform") **GDAX**](https://www.gdax.com/) | [&#x2713;](https://blog.coinbase.com/gdax-adds-margin-trading-27fea7ad53ea) ? [&#x237B;](https://support.pro.coinbase.com/customer/en/portal/articles/2936521-frequently-asked-questions-faq-?b_id=17474) |  |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://zaif.jp/) **Zaif**](https://zaif.jp/) | &#x2713; | ? |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://bitbank.cc/) **bitbank**](https://bitbank.cc/) | &#x2713; | ? |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://fcce.jp/) **Fisco**](https://fcce.jp/) | <small>(coming soon)</small> |  |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.bit-z.pro/) **Bit-z**](https://www.bit-z.pro/user/signup?pid=2047161) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.simex.global/en) **Simex**](https://simex.global/en/smx/30635) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.itbit.com/) **itBit**](https://www.itbit.com/) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.topbtc.com/) **TopBtc**](https://www.topbtc.one/?invit=240611) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.coinsuper.com/) **CoinSuper**](https://www.coinsuper.com/) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.rightbtc.com/) **RIGHTBTC**](https://www.rightbtc.com/) |  |  |  |  |  |  | &#x2713;
+[![](http://www.google.com/s2/favicons?domain=https://www.lakebtc.com/) **LakeBTC**](https://www.lakebtc.com/?ref=1jqxif) |  |  |  |  |  |  | &#x2713;
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
