@@ -19,10 +19,10 @@
 		<img src="https://awesome.re/badge.svg" alt="Awesome">
 	</a>
     <br>
-    <small>Inspired by awesome and following the <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">manifesto</a> guidelines.</small>  
+    <sup>Inspired by awesome and following the <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">manifesto </a>guidelines.</sup>  
     <br>
 	<p>
-		<small>This work aims to raise awareness of the possibilities offered by Blockchain technology; and create community around it.</small>
+		<sub>This work aims to raise awareness of the possibilities offered by Blockchain technology; and create community around it.</sup>
 	</p>
 	<br>
 </div>
@@ -33,14 +33,14 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 
 Tips:  
 If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
-<small>  
+<sup>  
 <a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
 <a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
 <a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
 <a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
 <a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
 <a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
-</small>
+</sup>
 
 <br>
 <small>[ Disclaimer: I am not a financial advisor and do not offer financial advice. Please do your own research before making any investment decisions. ]
