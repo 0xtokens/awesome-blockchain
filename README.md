@@ -283,7 +283,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/changelly_team)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/Changelly/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/changelly)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/changelly)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/changelly)
     [![API](./img/api.png "API")](https://changelly.com/developers)  
     &nbsp; &nbsp; &nbsp;"Transfer from one wallet to another within seconds. It's that simple"
 
@@ -307,7 +307,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/cex_io)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/cexio/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/cex-io/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/cex-io/)
     [![API](./img/api.png "API")](https://cex.io/cex-api)  
     &nbsp; &nbsp; &nbsp;"Bitcoin Exchange and Bitcoin trading. WORLD COVERAGE: Providing services in 99% countries around the globe, including 24 states of USA"
 
@@ -343,7 +343,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.phonegap.bit2me) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bit2me)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/9243641)  
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/9243641)  
     &nbsp; &nbsp; &nbsp;"Buying and Selling #bitcoin was never that easier. Do it now with bit2me"
 
 <!-- bisq -->
@@ -408,7 +408,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/UpholdInc)
     [![GitHub](./img/github.png "GitHub")](https://github.com/uphold)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/upholdinc)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/upholdinc)
     [![API](./img/api.png "API")](https://uphold.com/en/developer/api)
     [![API](./img/api.png "API")](https://uphold.com/en/what-we-do/developers)
     [![Careers](./img/careers.png "Careers")](https://uphold.com/en/about-us/careers)  
@@ -467,7 +467,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=net.bitstamp.bitstamp) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Bitstamp)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bitstamp)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bitstamp)
     [![API](./img/api.png "API")](https://www.bitstamp.net/api/)  
     &nbsp; &nbsp; &nbsp;"Go for the digital currency stars"
 
@@ -490,7 +490,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en)&nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/blockchain)
     [![GitHub](./img/github.png "GitHub")](https://github.com/blockchain/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/blockchain/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/blockchain/)
     [![API](./img/api.png "API")](https://www.blockchain.com/api)
     [![Careers](./img/careers.png "Careers")](https://www.blockchain.com/careers)  
     &nbsp; &nbsp; &nbsp;"The easy way to send, receive, store, and trade digital currencies.  Join 25+ million individual & institutional investors on the most trusted cryptocurrency platform"
@@ -515,7 +515,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://bitbay.net/en/fees)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/BitBayBitcoin)
-    [![Linkedin](./img/in.png "Linkedin")](https://pl.linkedin.com/company/bitbay)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://pl.linkedin.com/company/bitbay)
     [![API](./img/api.png "Public API")](https://bitbay.net/en/api-public)
     [![API](./img/api.png "Private API")](https://bitbay.net/en/api-private)  
     &nbsp; &nbsp; &nbsp;"Bitcoin, Litecoin, Ether & Lisk exchange"
@@ -561,7 +561,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.athenabitcoin.wallet) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitquickco)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/5161413)  
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/5161413)  
     &nbsp; &nbsp; &nbsp;"Bitcoin trading made quick and easy!"
 
 <!-- LakeBTC -->
@@ -630,7 +630,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Fees](./img/fees.png "fees")](https://bitit.io/pricing)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitit_gift?lang=es)
     [![GitHub](./img/github.png "GitHub")](https://github.com/bititio)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bitit)  
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bitit)  
     &nbsp; &nbsp; &nbsp;"Your one-stop-shop for cryptocurrency purchases. Buy the leading blockchain assets with 14+ Fiat currencies including USD, EUR, KRW, JPY... across 50+ countries"
 
 <!-- ALFA CASHIER -->
@@ -672,7 +672,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.unocoin.unocoinwallet) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Unocoin)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/unocoin/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/unocoin/)
     [![API](./img/api.png "API")](https://www.unocoin.com/how-it-works?info=tickerapi)  
     &nbsp; &nbsp; &nbsp;"India's home for digital currency & Blockchain Company. Buy, sell, store, use & accept bitcoin!"
 
@@ -741,7 +741,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/coins_bank)
     [![GitHub](./img/github.png "GitHub")](https://github.com/coinsbank/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/10576495)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/10576495)
     [![API](./img/api.png "API")](https://coinsbank.com/app/user/api)  
     &nbsp; &nbsp; &nbsp;"CoinsBank is your «all-in-one» gateway to blockchain services"
 
@@ -774,7 +774,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://www.bitinka.com/comissions)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitinka)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bitinka)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bitinka)
     [![API](./img/api.png "API")](https://www.bitinka.com/bitinka/api_documentation)  
     &nbsp; &nbsp; &nbsp;"Somos un exchange de criptomonedas con alcance en Latinoamérica, Europa y Asia. Comienza en el mundo de las monedas digitales con nosotros #Bitcoin #ETH #XRP"
 
@@ -834,7 +834,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Fees](./img/fees.png "fees")](https://www.negociecoins.com.br/comissoes)
     [![Twitter](./img/twitter.png "Twitter")](http://www.twitter.com/negociecoins)
     [![GitHub](./img/github.png "GitHub")](https://github.com/NegocieCoins)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/negociecoins/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/negociecoins/)
     [![API](./img/api.png "API")](https://www.negociecoins.com.br/documentacao-api)  
     &nbsp; &nbsp; &nbsp;"A NegocieCoins é uma das maiores exchanges de criptomoedas do Brasil. Crie sua conta hoje e comece a Negociar!"
 
@@ -907,7 +907,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/quoine_SG)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/LiquidQASH/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/QuoineFinancial)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/6636706)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/6636706)
     [![API](./img/api.png "API")](https://developers.quoine.com/v2) &nbsp; 
     [![Promo](./img/promo.png "Register (Earn 3 free QASH with this invitation link)")](https://accounts.quoinex.com/sign-up?affiliate=dmcqpdsw533625)  
     &nbsp; &nbsp; &nbsp;"Building global crypto liquidity backed by #QASH: liquid.plus  High performance trading exchanges: quoinex.com , qryptos.com. Demo account available. Zero fees on your Base Currency . Margin Trading. P2P lending. Futures. Qryptos is trading platform. Liquid QASH is the official token of Quoine."
@@ -956,7 +956,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](https://exchange.btcc.com/appdownload/) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/YourBTCC)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/yourbtcc>)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/yourbtcc>)
     [![API](./img/api.png "API")](http://btcc-api.netlify.com/)  
     &nbsp; &nbsp; &nbsp;"A leading digital asset platform offering exchanges, mining pools & wallets"
 
@@ -976,7 +976,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/CoinGatecom)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/user/CoinGate)
     [![GitHub](./img/github.png "GitHub")](https://github.com/coingate)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/coingate)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/coingate)
     [![API](./img/api.png "API")](https://developer.coingate.com/) &nbsp; 
     [![Promo](./img/promo.png "Register: Get 0.5% discount on trade fees with this invitation link")](https://coingate.com/ref/05discount)  
     &nbsp; &nbsp; &nbsp;"Cryptocurrency payments made easy. Accept payments in Bitcoin, Ethereum, Litecoin and others. Real-time conversion to Fiat"
@@ -996,7 +996,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Fees](./img/fees.png "fees")](https://www.coss.io/fees)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/cosscrypto)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/cossio)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/13239921)   
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/13239921)   
     &nbsp; &nbsp; &nbsp;"Cryptocurrency exchange platform, with all the features of a digital ecosystem based on cryptocurrency"
 
 <!-- Kraken -->
@@ -1031,7 +1031,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/Kraken/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/payward)
     [![GitHub](./img/github.png "GitHub")](https://github.com/krakenfx)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/kraken-exchange/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/kraken-exchange/)
     [![API](./img/api.png "API")](https://www.kraken.com/en-us/help/api)
     [![Careers](./img/careers.png "Careers")](https://www.kraken.com/redirect?url=https%3A%2F%2Fjobs.lever.co%2Fkraken)
     [![Bug Bounty](./img/bounty.png "Bug Bounty")](https://www.kraken.com/en-us/security/bug-bounty)  
@@ -1052,7 +1052,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Fees](./img/fees.png "fees")](https://www.bitfinex.com/fees)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitfinex)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/bitfinex/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bitfinex/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bitfinex/)
     [![API](./img/api.png "API")](https://docs.bitfinex.com/docs)
     [![Careers](./img/careers.png "Careers")](https://www.bitfinex.com/careers)  
     &nbsp; &nbsp; &nbsp;"Bitfinex is the world's leading digital asset trading platform"
@@ -1152,7 +1152,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Fees](./img/fees.png "Trading fees")](https://gemini.com/trading-fee-schedule/)
     [![Fees](./img/fees.png "Transfer fees")](https://gemini.com/transfer-fee-schedule/)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/GeminiDotCom)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/gemini-com)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/gemini-com)
     [![API](./img/api.png "API")](https://docs.gemini.com/)
     [![Careers](./img/careers.png "Careers")](https://gemini.com/careers)  
     &nbsp; &nbsp; &nbsp;"Gemini is a next generation digital asset exchange and custodian that allows customers to buy, sell, and store digital assets. No deposit/withdrawal fees"
@@ -1191,7 +1191,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Fees](./img/fees.png "Funding-withdrawal fees")](https://www.quadrigacx.com/account-funding-withdrawal/?ref=xw75sarsx2xgotachlvnx8lx)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/QuadrigaCoinEx)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/QuadrigaCX/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/quadrigacx-bitcoin-exchange/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/quadrigacx-bitcoin-exchange/)
     [![API](./img/api.png "API")](https://www.quadrigacx.com/api_info/?ref=xw75sarsx2xgotachlvnx8lx)
     [![Careers](./img/careers.png "Careers")](https://www.quadrigacx.com/careers/?ref=xw75sarsx2xgotachlvnx8lx)  
     &nbsp; &nbsp; &nbsp;"QuadrigaCX is a Canadian Cryptocurrency exchange platform. Our goal is to provide an easy to use platform to simplify the process of buying and selling Bitcoins"
@@ -1229,7 +1229,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://dsx.uk/schedule/)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/dsx_uk)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/digital-securities-exchange)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/digital-securities-exchange)
     [![API](./img/api.png "API")](https://dsx.docs.apiary.io/)  
     &nbsp; &nbsp; &nbsp;"The only choice for traders looking for a professional environment for trading cryptocurrency"
 
@@ -1276,7 +1276,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Android app](./img/google-play.png "Android app")](http://play.google.com/store/apps/details?id=com.coinsuper.app) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Coinsuper_OFCL)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/coinsuper/)  
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/coinsuper/)  
     &nbsp; &nbsp; &nbsp;"Coinsuper is a HK - Hong Kong based Crytpo exchange founded in 2017"
 
 <!-- Zaif -->
@@ -1342,7 +1342,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     [![Twitter](./img/twitter.png "Twitter")](https://www.twitter.com/gatecoin)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/gatecoinexchange/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/Gatecoin)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/gatecoin)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/gatecoin)
     [![API](./img/api.png "API")](https://gatecoin.com/api)
     [![Careers](./img/careers.png "Careers")](https://gatecoin.com/careers)
     [![Promo](./img/promo.png "Register: register with this invitation link and get 10% bonus reward")](https://gatecoin.com/register?referralCode=WDKEXK)  
@@ -1436,7 +1436,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/wirexapp)
     [![GitHub](./img/github.png "GitHub")](https://github.com/wirexapp)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/wirex-limited)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/wirex-limited)
     [![Careers](./img/careers.png "Careers")](https://wirexapp.com/careers)  
     &nbsp; &nbsp; &nbsp;"1.5 Million Customers. 1.5 Billion Transactions. Over 130 Countries. Hybrid personal finance platform that bridges old world banking and new world crypto"
 <br>
@@ -1536,7 +1536,7 @@ Some like [LocalBitcoins](https://localbitcoins.com/?ch=rpkf)[&#x25BE;](https://
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/remitano)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/remitano/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/Remitano)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/Remitano)
     [![Careers](./img/careers.png "Careers")](https://remitano.com/es/careers)  
     &nbsp; &nbsp; &nbsp;"Remitano is a peer to peer Bitcoin exchange. Buy and Sell Bitcoin fast and securely. Trade between Bitcoin (BTC) and your local currency with local people online"
 
@@ -1684,7 +1684,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Cryptopia_NZ)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/Cryptopia/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/CryptopiaNZ)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/cryptopia-limited)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/cryptopia-limited)
     [![API](./img/api.png "Public API")](https://support.cryptopia.co.nz/csm?id=kb_article&sys_id=40e9c310dbf9130084ed147a3a9619eb)
     [![API](./img/api.png "Private API")](https://support.cryptopia.co.nz/csm?id=kb_article&sys_id=a75703dcdbb9130084ed147a3a9619bc)  
     &nbsp; &nbsp; &nbsp;"Start trading the world's largest range of cryptocurrencies"
@@ -1703,7 +1703,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Fees](./img/fees.png "fees")](https://www.coss.io/fees)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/cosscrypto)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/cossio)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/13239921)   
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/13239921)   
     &nbsp; &nbsp; &nbsp;"Cryptocurrency exchange platform, with all the features of a digital ecosystem based on cryptocurrency"
 
 <!-- Coinexchange -->
@@ -1825,7 +1825,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/Kraken/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/payward)
     [![GitHub](./img/github.png "GitHub")](https://github.com/krakenfx)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/kraken-exchange/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/kraken-exchange/)
     [![API](./img/api.png "API")](https://www.kraken.com/en-us/help/api)
     [![Careers](./img/careers.png "Careers")](https://www.kraken.com/redirect?url=https%3A%2F%2Fjobs.lever.co%2Fkraken)
     [![Bug Bounty](./img/bounty.png "Bug Bounty")](https://www.kraken.com/en-us/security/bug-bounty)  
@@ -1843,7 +1843,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Fees](./img/fees.png "fees")](https://poloniex.com/fees)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/poloniex)
     [![reddit](./img/reddit.png "reddit (Unofficial)")](https://www.reddit.com/r/poloniex/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/circle-internet-financial)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/circle-internet-financial)
     [![API](./img/api.png "API")](https://poloniex.com/support/api/)
     [![Bug Bounty](./img/bounty.png "Bug Bounty")]()  
     &nbsp; &nbsp; &nbsp;"Based in the United States, Poloniex is a leading cryptocurrency exchange offering a wide variety of digital assets"
@@ -1862,7 +1862,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/BittrexExchange)
     [![reddit](./img/reddit.png "reddit (Unofficial)")](https://www.reddit.com/r/Bittrex/)
     [![GitHub](./img/github.png "GitHub")]()
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bittrex/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bittrex/)
     [![API](./img/api.png "API")](https://bittrex.com/Home/Api)  
     &nbsp; &nbsp; &nbsp;"U.S.-based blockchain platform providing real-time trading and industry-leading security"
 
@@ -1883,7 +1883,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Fees](./img/fees.png "fees")](https://www.bitfinex.com/fees)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/bitfinex)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/bitfinex/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bitfinex/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bitfinex/)
     [![API](./img/api.png "API")](https://docs.bitfinex.com/docs)
     [![Careers](./img/careers.png "Careers")](https://www.bitfinex.com/careers)  
     &nbsp; &nbsp; &nbsp;"Bitfinex is the world's leading digital asset trading platform"
@@ -1905,7 +1905,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=net.bitstamp.bitstamp) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Bitstamp)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/bitstamp)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/bitstamp)
     [![API](./img/api.png "API")](https://www.bitstamp.net/api/)  
     &nbsp; &nbsp; &nbsp;"Go for the digital currency stars"
     
@@ -2048,7 +2048,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.xinlian.bitz) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/BitZExchange)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/in/bit-z-exchange-062194149/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/in/bit-z-exchange-062194149/)
     [![API](./img/api.png "API")](https://www.bit-z.com/api.html)
     [![Careers](./img/careers.png "Careers")](https://www.bit-z.com/Joinus)  
     &nbsp; &nbsp; &nbsp;"Bit-Z is created in 2016 which is a global digital currency exchange platform. We want to provide safe, efficient digital currency services for global users"
@@ -2091,7 +2091,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/gdax)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/GDAX/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/coinbase)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/coinbase)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/coinbase)
     [![API](./img/api.png "API")](https://docs.gdax.com/)
     [![Careers](./img/careers.png "Careers")](https://www.gdax.com/careers)
      &nbsp; 
@@ -2280,7 +2280,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Fees](./img/fees.png "Trading fees")](https://gemini.com/trading-fee-schedule/)
     [![Fees](./img/fees.png "Transfer fees")](https://gemini.com/transfer-fee-schedule/)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/GeminiDotCom)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/gemini-com)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/gemini-com)
     [![API](./img/api.png "API")](https://docs.gemini.com/)
     [![Careers](./img/careers.png "Careers")](https://gemini.com/careers)  
     &nbsp; &nbsp; &nbsp;"Gemini is a next generation digital asset exchange and custodian that allows customers to buy, sell, and store digital assets. No deposit/withdrawal fees"
@@ -2316,7 +2316,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/quedexnet)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/user/quedexnet)
     [![GitHub](./img/github.png "GitHub")](https://github.com/quedexnet)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/quedex)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/quedex)
     [![API](./img/api.png "API")](https://quedex.net/doc/apifees?referralToken=765ac8f5ea5eb424) &nbsp; 
     [![Promo](./img/promo.png "Register: receive 10% discount from all trading fees for the first 180 days of trading")](https://quedex.net?referralToken=765ac8f5ea5eb424)  
     &nbsp; &nbsp; &nbsp;"Bitcoin Futures and Options Exchange"
@@ -2336,7 +2336,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Fees](./img/fees.png "Funding-withdrawal fees")](https://www.quadrigacx.com/account-funding-withdrawal/?ref=xw75sarsx2xgotachlvnx8lx)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/QuadrigaCoinEx)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/QuadrigaCX/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/quadrigacx-bitcoin-exchange/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/quadrigacx-bitcoin-exchange/)
     [![API](./img/api.png "API")](https://www.quadrigacx.com/api_info/?ref=xw75sarsx2xgotachlvnx8lx)
     [![Careers](./img/careers.png "Careers")](https://www.quadrigacx.com/careers/?ref=xw75sarsx2xgotachlvnx8lx)  
     &nbsp; &nbsp; &nbsp;"QuadrigaCX is a Canadian Cryptocurrency exchange platform. Our goal is to provide an easy to use platform to simplify the process of buying and selling Bitcoins"
@@ -2359,7 +2359,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.unodax.exchange) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Unocoin)
-    [![Linkedin](./img/in.png "Linkedin")](https://in.linkedin.com/company/unocoin)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://in.linkedin.com/company/unocoin)
     [![API](./img/api.png "API")](https://www.unodax.com/how-it-works?info=tickerapi)  
     &nbsp; &nbsp; &nbsp;"India's Leading CryptoAssets & Blockchain Company. Buy, sell, store, use & accept bitcoin!"
 
@@ -2439,7 +2439,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://dsx.uk/schedule/)
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/dsx_uk)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/digital-securities-exchange)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/digital-securities-exchange)
     [![API](./img/api.png "API")](https://dsx.docs.apiary.io/)  
     &nbsp; &nbsp; &nbsp;"The only choice for traders looking for a professional environment for trading cryptocurrency"
 
@@ -2478,7 +2478,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/quoine_SG)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/LiquidQASH/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/QuoineFinancial)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/6636706)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/6636706)
     [![API](./img/api.png "API")](https://developers.quoine.com/v2) &nbsp; 
     [![Promo](./img/promo.png "Register (Earn 3 free QASH with this invitation link)")](https://accounts.quoinex.com/sign-up?affiliate=dmcqpdsw533625)  
     &nbsp; &nbsp; &nbsp;"Building global crypto liquidity backed by #QASH: liquid.plus  High performance trading exchanges: quoinex.com , qryptos.com. Demo account available. **Zero fees** on your Base Currency . Margin Trading. P2P lending. Futures. Qryptos is trading platform. Liquid QASH is the official token of Quoine."
@@ -2504,7 +2504,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/quoine_SG)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/LiquidQASH/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/QuoineFinancial)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/6636706)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/6636706)
     [![API](./img/api.png "API")](https://developers.quoine.com/v2) &nbsp; 
     [![Promo](./img/promo.png "Register (Earn 3 free QASH with this invitation link)")](https://accounts.quoinex.com/sign-up?affiliate=dmcqpdsw533625)  
     &nbsp; &nbsp; &nbsp;"Building global crypto liquidity backed by #QASH: liquid.plus  High performance trading exchanges: quoinex.com , qryptos.com. Demo account available. **Zero fees** on your Base Currency . Margin Trading. P2P lending. Futures. Qryptos is trading platform. Liquid QASH is the official token of Quoine."
@@ -2588,7 +2588,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Android app](./img/google-play.png "Android app")](http://play.google.com/store/apps/details?id=com.coinsuper.app) 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Coinsuper_OFCL)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/coinsuper/)  
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/coinsuper/)  
     &nbsp; &nbsp; &nbsp;"Coinsuper is a HK - Hong Kong based Crytpo exchange founded in 2017"
 
 <!-- Zaif -->
@@ -2720,7 +2720,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Android app](./img/google-play.png "Android app")](https://exchange.btcc.com/appdownload/)
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/YourBTCC)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/yourbtcc>)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/yourbtcc>)
     [![API](./img/api.png "API")](http://btcc-api.netlify.com/)  
     &nbsp; &nbsp; &nbsp;"A leading digital asset platform offering exchanges, mining pools & wallets"
 
@@ -2739,7 +2739,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Twitter](./img/twitter.png "Twitter")](https://www.twitter.com/gatecoin)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/gatecoinexchange/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/Gatecoin)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/gatecoin)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/gatecoin)
     [![API](./img/api.png "API")](https://gatecoin.com/api)
     [![Careers](./img/careers.png "Careers")](https://gatecoin.com/careers)
     [![Promo](./img/promo.png "Register: register with this invitation link and get 10% bonus reward")](https://gatecoin.com/register?referralCode=WDKEXK)  
@@ -2828,7 +2828,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/cex_io)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/cexio/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/cex-io/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/cex-io/)
     [![API](./img/api.png "API")](https://cex.io/cex-api)  
     &nbsp; &nbsp; &nbsp;"Bitcoin Exchange and Bitcoin trading. WORLD COVERAGE: Providing services in 99% countries around the globe, including 24 states of USA"
 
@@ -2854,7 +2854,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     [![Android app](./img/google-play.png "Android app")]() 
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/BitBayBitcoin)
-    [![Linkedin](./img/in.png "Linkedin")](https://pl.linkedin.com/company/bitbay)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://pl.linkedin.com/company/bitbay)
     [![API](./img/api.png "Public API")](https://bitbay.net/en/api-public)
     [![API](./img/api.png "Private API")](https://bitbay.net/en/api-private)  
     &nbsp; &nbsp; &nbsp;"Bitcoin, Litecoin, Ether & Lisk exchange"
@@ -3166,7 +3166,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/ercdex)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/ercdex/)
     [![GitHub](./img/github.png "GitHub")](https://www.linkedin.com/company/25075800/)
-    [![Linkedin](./img/in.png "Linkedin")](https://github.com/ERCdEX)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://github.com/ERCdEX)
     [![API](./img/api.png "API")](https://aqueduct.ercdex.com/)
     [![Careers](./img/careers.png "Careers")](careers@ercdex.com)  
     &nbsp; &nbsp; &nbsp;"Peer-to-peer trading on Ethereum. Creating an incentive-driven, globally shared liquidity pool, Aqueduct. Built on 0x" 
@@ -3202,7 +3202,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     [![Fees](./img/fees.png "fees")](https://sharkrelay.com/faq)
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/SharkRelay)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/sharkrelay/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/sharkrelay/)
     [![API](./img/api.png "API")](https://sharkrelay.com/api)
     [![Careers](./img/careers.png "Careers")](https://angel.co/sharkrelay/jobs)  
     &nbsp; &nbsp; &nbsp;"Wallet to wallet token trading platform utilizing the power of 0x" 
@@ -3261,7 +3261,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/safe_exchange)
     [![reddit](./img/reddit.png "reddit")](https://reddit.com/r/safex)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company-beta/5945125/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company-beta/5945125/)
     [![GitHub](./img/github.png "GitHub")](https://github.com/safex)
     &nbsp; &nbsp; &nbsp;"Anonymous Decentralized Marketplace on the Blockchain" 
 
@@ -3417,7 +3417,7 @@ Conversion platforms are not decentralized nor do they have advanced trading too
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/coinswitch)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/coinswitch/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/coinswitch/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/coinswitch/)
     [![API](./img/api.png "API")](https://coinswitch.docs.apiary.io/)
     [![Careers](./img/careers.png "Careers")](https://angel.co/coinswitch-co/jobs)  
     &nbsp; &nbsp; &nbsp;"One place to convert your cryptocurrencies across all exchanges at the best rate. We support more than 275 cryptocurrencies to exchange"
@@ -3435,7 +3435,7 @@ Conversion platforms are not decentralized nor do they have advanced trading too
     [![Android app](./img/google-play.png "Android app")](https://play.google.com/store/apps/details?id=com.evercoin)&nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/everc0in)
     [![GitHub](./img/github.png "GitHub")](https://github.com/Everc0in)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/evercoin)  
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/evercoin)  
     &nbsp; &nbsp; &nbsp;"Cryptocurrency Exchange. Exchange cryptos on-the-go directly from your own mobile wallet"
 
 <!-- My Ether Wallet -->
@@ -3450,7 +3450,7 @@ Conversion platforms are not decentralized nor do they have advanced trading too
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/myetherwallet)
     [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/MyEtherWallet/)
-    [![Linkedin](./img/in.png "Linkedin")](https://www.linkedin.com/company/myetherwallet)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/myetherwallet)
     [![GitHub](./img/github.png "GitHub")](https://github.com/MyEtherWallet)
     [![API](./img/api.png "API")](https://github.com/MyEtherWallet/myetherapi)  
     &nbsp; &nbsp; &nbsp;"The most popular Ether wallet with built-in exchange.
