@@ -68,8 +68,8 @@ If you find this list useful, you can also support it directly making a donation
 - [Wallets](#wallets)
 - [Portfolio](#portfolio)
 - [What´s cooking?](#whats-cooking)
-- [Contribute](#Contribute)
-- [License](#License)
+- [Contribute](#contribute)
+- [License](#license)
 
 
 <br>
