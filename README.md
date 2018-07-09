@@ -1441,7 +1441,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp; &nbsp; &nbsp;"1.5 Million Customers. 1.5 Billion Transactions. Over 130 Countries. Hybrid personal finance platform that bridges old world banking and new world crypto"
 <br>
 
-> [<small>List of exchanges not yet reviewed</small>](#)
+> [<small>List of exchanges not yet reviewed</small>](./not-reviewed.md)
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
@@ -2931,7 +2931,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     &nbsp; &nbsp; &nbsp;""
 <br>
 
-> [<small>List of exchanges not yet reviewed</small>](#)
+> [<small>List of exchanges not yet reviewed</small>](./not-reviewed.md)
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
@@ -3301,7 +3301,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     &nbsp; &nbsp; &nbsp;"Block DX is a truly decentralized exchange that enables trading freedom for connected blockchain communities. Listing on Block DX is free and does not require our permission or control"
 <br>
 
-> [<small>List of exchanges not yet reviewed</small>](#)
+> [<small>List of exchanges not yet reviewed</small>](./not-reviewed.md)
 
 <br>
 
