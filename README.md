@@ -19,10 +19,10 @@
 		<img src="https://awesome.re/badge.svg" alt="Awesome">
 	</a>
     <br>
-    <sup>Inspired by awesome and following the <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">manifesto </a>guidelines.</sup>  
+    <sub><sup>Inspired by awesome and following the <a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">manifesto </a>guidelines.</sub></sup>  
     <br>
 	<p>
-		<sub>This work aims to raise awareness of the possibilities offered by Blockchain technology; and create community around it.</sup>
+		<sub><sup>This work aims to raise awareness of the possibilities offered by Blockchain technology; and create community around it.</sub></sup>
 	</p>
 	<br>
 </div>
@@ -33,18 +33,17 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 
 Tips:  
 If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
-<sup>  
+<sub><sup>  
 <a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
 <a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
 <a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
 <a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
 <a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
 <a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
-</sup>
+</sub></sup>
 
 <br>
-<small>[ Disclaimer: I am not a financial advisor and do not offer financial advice. Please do your own research before making any investment decisions. ]
-</small>
+<sub><sup>[ Disclaimer: I am not a financial advisor and do not offer financial advice. Please do your own research before making any investment decisions. ]</sub></sup>
 <br>
 <br>
 
@@ -88,8 +87,8 @@ Febin John James
 Learn about Bitcoin in a visual way:
 
 - [Bitcoin Historical Price & Events](https://99bitcoins.com/price-chart-history/) - Accurate Bitcoin timeline.
-- [The Biggest Moments in Bitcoin History <small>(2008-2014)</small> ](https://nativemerchantservices.com/content/uploads/2015/01/biggest-moments-in-bitcoin1.png) - Infographic <small>(Information mostly correct and relevant, with few errors pointed out [here.](https://www.reddit.com/r/Bitcoin/comments/2vnv1d/the_biggest_moments_in_bitcoin_history_infographic/) It is also included because it provides a quick overview for newbies)</small>
-- [How a Bitcoin Transaction Works](https://spectrum.ieee.org/image/MjA3NDM1OA.jpeg) - <small>(Inaccurate/out of date but good to explaining simple concepts. Some inaccuracies indicated [here](https://www.reddit.com/r/Bitcoin/comments/1t4i5n/how_a_bitcoin_transaction_works_a_good/))</small>
+- [The Biggest Moments in Bitcoin History <sub><sup>(2008-2014)</sub></sup> ](https://nativemerchantservices.com/content/uploads/2015/01/biggest-moments-in-bitcoin1.png) - Infographic <sub><sup>(Information mostly correct and relevant, with few errors pointed out [here.](https://www.reddit.com/r/Bitcoin/comments/2vnv1d/the_biggest_moments_in_bitcoin_history_infographic/) It is also included because it provides a quick overview for newbies)</sub></sup>
+- [How a Bitcoin Transaction Works](https://spectrum.ieee.org/image/MjA3NDM1OA.jpeg) - <sub><sup>(Inaccurate/out of date but good to explaining simple concepts. Some inaccuracies indicated [here](https://www.reddit.com/r/Bitcoin/comments/1t4i5n/how_a_bitcoin_transaction_works_a_good/))</sub></sup>
 - [67 Insane Facts About Bitcoin](https://bitcoinplay.net/58-insane-facts-about-bitcoin/) - 
 
 Some video:
@@ -522,7 +521,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- SatoshiTango -->
 [![](http://www.google.com/s2/favicons?domain=https://www.satoshitango.com/ "Targets Argentinian market") **SatoshiTango**](https://satoshitango.com/ref-es-WC14OKLN) &nbsp;
-    ![](http://www.countryflags.io/AR/shiny/16.png "Buenos Aires, Argentina") <small>(Special features for Argentine Market)</small> [&#x25BE;](https://www.satoshitango.com/) 
+    ![](http://www.countryflags.io/AR/shiny/16.png "Buenos Aires, Argentina") <sub><sup>(Special features for Argentine Market)</sub></sup> [&#x25BE;](https://www.satoshitango.com/) 
     ![Languages](./img/language.png "English, Español, Português")
     ![Currencies](./img/currency.png "Currencies: ARS, USD, EUR")
     ![Payment Methods](./img/payment.png "Bank Transfer (swift y S€PA), usando dinero en tu cuenta de MercadoPago o a través de un cupón en PagoFácil, RapiPago, BaproPagos, CobroExpress y ProvinciaPagos.")
@@ -700,7 +699,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- btcmarkets -->
 [![](http://www.google.com/s2/favicons?domain=https://www.btcmarkets.net/) **btcmarkets**](https://btcmarkets.net/) &nbsp;
-    ![](http://www.countryflags.io/AU/shiny/16.png "Melbourne, Australia") <small>(Targets Australian Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/AU/shiny/16.png "Melbourne, Australia") <sub><sup>(Targets Australian Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "English")
     ![Currencies](./img/currency.png "Currencies:  AUD")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/btc-markets/)
@@ -780,7 +779,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- BTCTurk -->
 [![](http://www.google.com/s2/favicons?domain=https://www.btcturk.com/ "Turkey Exchange") **BTCTurk**](https://www.btcturk.com/) &nbsp;
-    ![](http://www.countryflags.io/TR/shiny/16.png "Turkey") <small>Targets Turkish Market</small> &#x25BE; 
+    ![](http://www.countryflags.io/TR/shiny/16.png "Turkey") <sub><sup>Targets Turkish Market</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Turkish, English")
     ![Currencies](./img/currency.png "Currencies: TRY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/btcturk/)
@@ -821,7 +820,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- NEGOCIECOINS -->
 [![](http://www.google.com/s2/favicons?domain=https://www.negociecoins.com.br/) **NEGOCIECOINS**](https://www.negociecoins.com.br/) &nbsp;
-    ![](http://www.countryflags.io/BR/shiny/16.png "Curitiba, Brazil") <small>(Brazilian Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/BR/shiny/16.png "Curitiba, Brazil") <sub><sup>(Brazilian Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Português only")
     ![Currencies](./img/currency.png "Currencies: BRL")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/negocie-coins/)
@@ -847,7 +846,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     ![Payment Methods](./img/payment.png "Wire Transfer, ACH or Credit Card")
     - &nbsp; 
     ![Buy](./img/buy.png "Buy with FIAT available")
-    <small>(ETH & DASH)</small>
+    <sub><sup>(ETH & DASH)</sub></sup>
     ![Sell](./img/sell.png "Exchange crypto into FIAT available")
     ![Wallet](./img/wallet.png "Mobile Wallet")
     ![Merchant](./img/merchant.png "Merchant Services")
@@ -1098,7 +1097,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- Upbit -->
 [![](http://www.google.com/s2/favicons?domain=https://www.upbit.com/) **Upbit**](https://upbit.com/) &nbsp;
-    ![](http://www.countryflags.io/KR/shiny/16.png "South Korea") <small>(Korean Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/KR/shiny/16.png "South Korea") <sub><sup>(Korean Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Only korean version available (english not available)")
     ![Currencies](./img/currency.png "Currencies: KRW")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/upbit/)
@@ -1281,7 +1280,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- Zaif -->
 [![](http://www.google.com/s2/favicons?domain=https://zaif.jp/) **Zaif**](https://zaif.jp/) &nbsp;
-    ![](http://www.countryflags.io/JP/shiny/16.png "Japan") <small>(Targets Japanese Market) </small> &#x25BE; 
+    ![](http://www.countryflags.io/JP/shiny/16.png "Japan") <sub><sup>(Targets Japanese Market) </sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Japanese, English")
     ![Currencies](./img/currency.png "Currencies: JPY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/zaif/)
@@ -1392,7 +1391,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
 
 <!-- bitso -->
 [![](http://www.google.com/s2/favicons?domain=https://bitso.com/) **bitso**](https://bitso.com/?ref=xhdz) &nbsp;
-    ![](http://www.countryflags.io/MX/shiny/16.png "Mexico City, Mexico") <small>(Targets Mexican Market)</small> [&#x25BE;](https://bitso.com/) 
+    ![](http://www.countryflags.io/MX/shiny/16.png "Mexico City, Mexico") <sub><sup>(Targets Mexican Market)</sub></sup> [&#x25BE;](https://bitso.com/) 
     ![Languages](./img/language.png "English, Spanish")
     ![Currencies](./img/currency.png "Currencies: MXN")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/bitso/)
@@ -1441,7 +1440,7 @@ Some also allow exchange crypto&#8596;crypto ![Exchange](./img/exchange.png "Exc
     &nbsp; &nbsp; &nbsp;"1.5 Million Customers. 1.5 Billion Transactions. Over 130 Countries. Hybrid personal finance platform that bridges old world banking and new world crypto"
 <br>
 
-> [<small>List of exchanges not yet reviewed</small>](./not-reviewed.md)
+> [<sub><sup>List of exchanges not yet reviewed</sub></sup>](./not-reviewed.md)
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
@@ -1952,7 +1951,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     &nbsp; &nbsp; &nbsp;"Professional Block-chain Assets Trading Platform"
 
 <!-- NAUTICUS -->
-[![](http://www.google.com/s2/favicons?domain=https://www.nauticus.io "Registrered with Australian Government regulator AUSTRAC") **NAUTICUS** <small>(Coming soon, mid-2018)</small>](https://www.nauticus.io/ref/ba22df3eb01964d82aec4242c5c04e4a98a3543551936bf19e777fa18666c7ad) &nbsp;
+[![](http://www.google.com/s2/favicons?domain=https://www.nauticus.io "Registrered with Australian Government regulator AUSTRAC") **NAUTICUS** <sub><sup>(Coming soon, mid-2018)</sub></sup>](https://www.nauticus.io/ref/ba22df3eb01964d82aec4242c5c04e4a98a3543551936bf19e777fa18666c7ad) &nbsp;
     ![](http://www.countryflags.io/AU/shiny/16.png "Melbourne, Victoria, Australia") [&#x25BE;](https://nauticus.io) 
     ![Languages](./img/language.png "A lot of languages!")
     ![Currencies](./img/currency.png "Currencies: USD, EUR, JPY, HKD, AUD and ZAR")
@@ -2136,7 +2135,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- Upbit -->
 [![](http://www.google.com/s2/favicons?domain=https://www.upbit.com/) **Upbit**](https://upbit.com/) &nbsp;
-    ![](http://www.countryflags.io/KR/shiny/16.png "South Korea") <small>(Korean Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/KR/shiny/16.png "South Korea") <sub><sup>(Korean Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Only korean version available (english not available)")
     ![Currencies](./img/currency.png "Currencies: KRW")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/upbit/)
@@ -2511,7 +2510,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- bitbank -->
 [![](http://www.google.com/s2/favicons?domain=https://bitbank.cc/) **bitbank**](https://bitbank.cc/) &nbsp;
-    ![](http://www.countryflags.io/JP/shiny/16.png "Shinagawa-ku, Tokyo ,Japan") <small>(Japanese Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/JP/shiny/16.png "Shinagawa-ku, Tokyo ,Japan") <sub><sup>(Japanese Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Japanese")
     ![Currencies](./img/currency.png "Currencies: JPY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/bitbank/)
@@ -2593,7 +2592,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- Zaif -->
 [![](http://www.google.com/s2/favicons?domain=https://zaif.jp/) **Zaif**](https://zaif.jp/) &nbsp;
-    ![](http://www.countryflags.io/JP/shiny/16.png "Japan") <small>(Targets Japanese Market) </small> &#x25BE; 
+    ![](http://www.countryflags.io/JP/shiny/16.png "Japan") <sub><sup>(Targets Japanese Market) </sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Japanese, English")
     ![Currencies](./img/currency.png "Currencies: JPY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/zaif/)
@@ -2617,7 +2616,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- BitForex -->
 [![](http://www.google.com/s2/favicons?domain=https://bitforex.com/) **BitForex**](https://www.bitforex.com/registered?inviterId=118270) &nbsp;
-    ![](http://www.countryflags.io/SG/shiny/16.png "Singapore") <small>(Targets Chinese Market)</small> [&#x25BE;](https://bitforex.com/) 
+    ![](http://www.countryflags.io/SG/shiny/16.png "Singapore") <sub><sup>(Targets Chinese Market)</sub></sup> [&#x25BE;](https://bitforex.com/) 
     ![Languages](./img/language.png "English, Chinese")
     ![Currencies](./img/currency.png "Currencies: CNY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/bitforex/)
@@ -2632,7 +2631,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- Fisco -->
 [![](http://www.google.com/s2/favicons?domain=https://fcce.jp/) **Fisco**](https://fcce.jp/) &nbsp;
-    ![](http://www.countryflags.io/JP/shiny/16.png "Kinki, Japan") <small>(Japanese Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/JP/shiny/16.png "Kinki, Japan") <sub><sup>(Japanese Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Japanese")
     ![Currencies](./img/currency.png "Currencies: JPY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/fisco/)
@@ -2787,7 +2786,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- bitso -->
 [![](http://www.google.com/s2/favicons?domain=https://bitso.com/) **bitso**](https://bitso.com/?ref=xhdz) &nbsp;
-    ![](http://www.countryflags.io/MX/shiny/16.png "Mexico City, Mexico") <small>(Targets Mexican Market)</small> [&#x25BE;](https://bitso.com/) 
+    ![](http://www.countryflags.io/MX/shiny/16.png "Mexico City, Mexico") <sub><sup>(Targets Mexican Market)</sub></sup> [&#x25BE;](https://bitso.com/) 
     ![Languages](./img/language.png "English, Spanish")
     ![Currencies](./img/currency.png "Currencies: MXN")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/bitso/)
@@ -2883,7 +2882,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- btcmarkets -->
 [![](http://www.google.com/s2/favicons?domain=https://www.btcmarkets.net/) **btcmarkets**](https://btcmarkets.net/) &nbsp;
-    ![](http://www.countryflags.io/AU/shiny/16.png "Melbourne, Australia") <small>(Targets Australian Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/AU/shiny/16.png "Melbourne, Australia") <sub><sup>(Targets Australian Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "English")
     ![Currencies](./img/currency.png "Currencies:  AUD")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/btc-markets/)
@@ -2901,7 +2900,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
 
 <!-- BTCTurk -->
 [![](http://www.google.com/s2/favicons?domain=https://www.btcturk.com/ "Turkey Exchange") **BTCTurk**](https://www.btcturk.com/) &nbsp;
-    ![](http://www.countryflags.io/TR/shiny/16.png "Turkey") <small>(Targets Turkish Market)</small> &#x25BE; 
+    ![](http://www.countryflags.io/TR/shiny/16.png "Turkey") <sub><sup>(Targets Turkish Market)</sub></sup> &#x25BE; 
     ![Languages](./img/language.png "Turkish, English")
     ![Currencies](./img/currency.png "Currencies: TRY")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/exchanges/btcturk/)
@@ -2921,7 +2920,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     &nbsp; &nbsp; &nbsp;"Trade Bitcoin easily. Turkish Lira based Bitcoin, Ethereum and Ripple exchange platform"
 
 <!-- Victorium -->
-[![](http://www.google.com/s2/favicons?domain=https://www.vicex.io/) **Victorium** <small>(Coming soon...)</small>](https://vicex.io/) &nbsp;
+[![](http://www.google.com/s2/favicons?domain=https://www.vicex.io/) **Victorium** <sub><sup>(Coming soon...)</sub></sup>](https://vicex.io/) &nbsp;
     ![](http://www.countryflags.io//shiny/16.png "") &#x25BE; 
     ![Languages](./img/language.png "English")
     - &nbsp;
@@ -2931,7 +2930,7 @@ Trading platforms have more advanced buying / selling functionalities like margi
     &nbsp; &nbsp; &nbsp;""
 <br>
 
-> [<small>List of exchanges not yet reviewed</small>](./not-reviewed.md)
+> [<sub><sup>List of exchanges not yet reviewed</sub></sup>](./not-reviewed.md)
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
@@ -3301,7 +3300,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     &nbsp; &nbsp; &nbsp;"Block DX is a truly decentralized exchange that enables trading freedom for connected blockchain communities. Listing on Block DX is free and does not require our permission or control"
 <br>
 
-> [<small>List of exchanges not yet reviewed</small>](./not-reviewed.md)
+> [<sub><sup>List of exchanges not yet reviewed</sub></sup>](./not-reviewed.md)
 
 <br>
 
@@ -3329,7 +3328,7 @@ Exchange Name | Margin Trading | Leverage | Lending | Futures | Options | CFD´s
 [![](http://www.google.com/s2/favicons?domain=https://www.poloniex.com/) **Poloniex**](https://poloniex.com/) | &#x2713; | ? | &#x2713; |  |  |  | 
 [![](http://www.google.com/s2/favicons?domain=https://www.mercatox.com/) **Mercatox**](https://mercatox.com/?referrer=319712) | &#x2713; | ? | &#x2713; |  |  |  | 
 [![](http://www.google.com/s2/favicons?domain=https://www.ethfinex.com/) **Ethfinex**](https://www.ethfinex.com/) &nbsp;![Dex](./img/dex.png "DEX Exchange") | &#x2713; | 3.3x | &#x2713; |  |  |  | 
-[![](http://www.google.com/s2/favicons?domain=https://www.liqui.io/) **Liqui**](https://liqui.io/) | &#x2713; | ? | <small>(coming soon)</small> |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://www.liqui.io/) **Liqui**](https://liqui.io/) | &#x2713; | ? | <sub><sup>(coming soon)</sub></sup> |  |  |  | 
 [![](http://www.google.com/s2/favicons?domain=https://www.huobi.pro/) **Huobi**](https://www.huobi.br.com/es-es/topic/invited/?invite_code=kch93) | &#x2713; | ? |  |  |  |  | &#x2713;
 [![](http://www.google.com/s2/favicons?domain=https://www.zb.com/) **ZB**](https://www.zb.com/) | &#x2713; | 3x |  |  |  |  | &#x2713;
 [![](http://www.google.com/s2/favicons?domain=https://www.cobinhood.com) **COBINHOOD**](https://cobinhood.com/home?referrerId=1bcf66fa-2af4-44ec-8d0c-544e0cd04322) | &#x2713; | 10x |  |  |  |  | 
@@ -3339,7 +3338,7 @@ Exchange Name | Margin Trading | Leverage | Lending | Futures | Options | CFD´s
 [![](http://www.google.com/s2/favicons?domain=https://www.gdax.com/ "Coinbase trading platform") **GDAX**](https://www.gdax.com/) | [&#x2713;](https://blog.coinbase.com/gdax-adds-margin-trading-27fea7ad53ea) ? [&#x237B;](https://support.pro.coinbase.com/customer/en/portal/articles/2936521-frequently-asked-questions-faq-?b_id=17474) |  |  |  |  |  | 
 [![](http://www.google.com/s2/favicons?domain=https://zaif.jp/) **Zaif**](https://zaif.jp/) | &#x2713; | ? |  |  |  |  | 
 [![](http://www.google.com/s2/favicons?domain=https://bitbank.cc/) **bitbank**](https://bitbank.cc/) | &#x2713; | ? |  |  |  |  | 
-[![](http://www.google.com/s2/favicons?domain=https://fcce.jp/) **Fisco**](https://fcce.jp/) | <small>(coming soon)</small> |  |  |  |  |  | 
+[![](http://www.google.com/s2/favicons?domain=https://fcce.jp/) **Fisco**](https://fcce.jp/) | <sub><sup>(coming soon)</sub></sup> |  |  |  |  |  | 
 [![](http://www.google.com/s2/favicons?domain=https://www.bit-z.pro/) **Bit-z**](https://www.bit-z.pro/user/signup?pid=2047161) |  |  |  |  |  |  | &#x2713;
 [![](http://www.google.com/s2/favicons?domain=https://www.simex.global/en) **Simex**](https://simex.global/en/smx/30635) |  |  |  |  |  |  | &#x2713;
 [![](http://www.google.com/s2/favicons?domain=https://www.itbit.com/) **itBit**](https://www.itbit.com/) |  |  |  |  |  |  | &#x2713;
@@ -3383,7 +3382,7 @@ Brokers of the traditional financial markets that also allow to invest in crypto
 
 ### Crypto&#8596;Crypto conversion platforms
 
-<small>[ no trading, no FIAT, no account required, not have to deposit funds or provide private personal information ]</small>
+<sub><sup>[ no trading, no FIAT, no account required, not have to deposit funds or provide private personal information ]</sub></sup>
 
 Conversion platforms are not decentralized nor do they have advanced trading tools but allow the exchange of cryptocurrencies without the need to register or deposit funds. Some also make a comparison between different exchanges to perform the conversion at the best rate.
 
