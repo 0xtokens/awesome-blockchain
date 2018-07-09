@@ -68,6 +68,8 @@ If you find this list useful, you can also support it directly making a donation
 - [Wallets](#wallets)
 - [Portfolio](#portfolio)
 - [What´s cooking?](#whats-cooking)
+- [Contribute](#Contribute)
+- [License](#License)
 
 
 <br>
@@ -3511,3 +3513,17 @@ New lists are coming...
 - Meetups & Events
 
 ```
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## Contribute
+
+Whether you find a nice link, noticed a bug/broken link; or just want to improve this project, all contributions are welcome!
+
+Please take a look at the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines first.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
