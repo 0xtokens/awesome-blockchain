@@ -3109,7 +3109,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![Languages](./img/language.png "English, Chinese, Korean, Japanese")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/ddex/)
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://support.ddex.io/hc/en-us/articles/115004535333-Fees)
     &nbsp;
@@ -3125,7 +3125,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![Languages](./img/language.png "English")
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/radar-relay/)
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://radarrelay.com/terms/)
     &nbsp;
@@ -3140,7 +3140,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![Anonymous](./img/incognito.png "No custodianship, No account sign-ups, no compromises, Anonymous Transactions, No need to deposit, bring your own wallet") &#x25BE; 
     ![Languages](./img/language.png "English")
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     &nbsp; -
     [![Fees](./img/fees.png "fees: see on 'Help & Feedback' section")](https://app.paradex.io/)
     &nbsp;
@@ -3154,7 +3154,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![](http://www.countryflags.io/US/shiny/16.png "Austin, TX, United States") &#x25BE; 
     ![Languages](./img/language.png "English, Español, Chinese, Russian")
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://ercdex.com/fees)
     &nbsp;
@@ -3171,7 +3171,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![](http://www.countryflags.io/SG/shiny/16.png "Singapore") &#x25BE; 
     ![Languages](./img/language.png "English, Chinese")
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     [![Wallet](./img/wallet.png "Built-in wallet, support multiple types of digital wallet")](https://tokenlon.token.im/wallet)
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://help-center.token.im/hc/article/360002069334)
@@ -3192,7 +3192,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![](http://www.countryflags.io/US/shiny/16.png "New York, United States") &#x25BE; 
     ![Languages](./img/language.png "")
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://sharkrelay.com/faq)
     &nbsp;
@@ -3208,7 +3208,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![](http://www.countryflags.io/US/shiny/16.png "San Diego, California, United States") &#x25BE; 
     ![Languages](./img/language.png "English")
     - &nbsp; 
-    ![Atomic](./img/atomics.png "Atomic Swap Technology")
+    ![Atomic](./img/atomic.png "Atomic Swap Technology")
     &nbsp; -
     ![Fees](./img/fees.png "fees: not yet specified")]
     &nbsp;
@@ -3221,7 +3221,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![Anonymous](./img/incognito.png "Private, Anonymous Transactions, No deposit or registration required, 100% Compilant and Secure") &#x25BE; 
     ![Languages](./img/language.png "English")
     - &nbsp; 
-    [![0x](./img/0xp.png "0x Protocol")](https://0xproject.com/)
+    [![0x](./img/0x.png "0x Protocol")](https://0xproject.com/)
     &nbsp; -
     ![Fees](./img/fees.png "fees: not yet specified")
     &nbsp;
@@ -3267,7 +3267,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/barterdex/)
     - &nbsp; 
     [![Exchange Coin](./img/excoin.png "Komodo Token KMD")](https://coinmarketcap.com/currencies/komodo/)
-    ![Atomic](./img/atomics.png "Atomic Swap Technology")
+    ![Atomic](./img/atomic.png "Atomic Swap Technology")
     [![Wallet](./img/wallet.png "Komodo Wallets")](https://komodoplatform.com/komodo-wallets/)
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://komodoplatform.com/faqs/#)
@@ -3285,7 +3285,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     ![Languages](./img/language.png "English")
     - &nbsp; 
     [![Exchange Coin](./img/excoin.png "Blocknet token BLOCK")](https://coinmarketcap.com/es/currencies/blocknet/)
-    ![Atomic](./img/atomics.png "Atomic Swap Technology")
+    ![Atomic](./img/atomic.png "Atomic Swap Technology")
     &nbsp; -
     [![Fees](./img/fees.png "fees")](https://docs.google.com/document/d/1FOtlZN9cITzRKIDSOaPuVRyB4-lVXVw4VUJjCuDSzYU/preview)
     &nbsp;
