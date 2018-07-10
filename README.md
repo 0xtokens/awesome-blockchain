@@ -7,7 +7,7 @@
 		Curating the best <strong>Blockchain</strong> and Crytocurrency Resources
 	</p>
 	<p>
-		<sup>Do you want to support this project?</sup>
+		<sup>Do you want to <a href="mailto:0xtokens@gmail.com">support</a> this project?</sup>
 		<br>
 		<a href="mailto:0xtokens@gmail.com">
 			<img src="./img/sponsor.svg" width="260" alt="wtgtybhertgeghgtwtg">
@@ -15,7 +15,14 @@
 	</p>
 	<br>
     <br>
-	<a href="https://awesome.re">
+    <p align="center">
+	<a href="#donate">Donate</a> &nbsp; &nbsp; &nbsp; &nbsp;
+	<a href="https://github.com/0xtokens/awesome-blockchain/blob/master/CONTRIBUTING.md">Contribution guide</a> &nbsp; &nbsp; &nbsp; &nbsp;
+	<a href="https://twitter.com/" target="_blank">Twitter</a> &nbsp; &nbsp; &nbsp; &nbsp;
+	<a href="http://t.me/blockchaintokens" target="_blank">Telegram</a>
+    </p>
+    <br>
+    <a href="https://awesome.re">
 		<img src="https://awesome.re/badge.svg" alt="Awesome">
 	</a>
     <br>
@@ -31,22 +38,8 @@
 
 Some links in this list are _affiliate links,_ but you can skip them if you want. If the &#x25BE; symbol appears in the description in blue (like this [&#x25BE;](#)), you can access the original link from it; If the symbol is black, the main link is clean.
 
-Tips:  
-If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
-<sup>  
-<a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BTC: &nbsp; &nbsp; &nbsp; 1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz  
-<a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; ETH: &nbsp; &nbsp; &nbsp; 0x2a4a95A050d1842AAADf04277F493E9946713466  
-<a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; LTC: &nbsp;&nbsp; &nbsp; &nbsp; Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81  
-<a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; BCH: &nbsp;&nbsp; &nbsp; qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60  
-<a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; NEO: &nbsp;&nbsp; &nbsp; AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS  
-<a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; DASH:&nbsp;&nbsp;&nbsp; Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh  
-</sup>
-
-<br>
 <div align="center"><sub>[ Disclaimer: I am not a financial advisor and do not offer financial advice. Please do your own research before making any investment decisions. ]</sub></div>
 <br>
-<br>
-
 
 ## Contents
 
@@ -69,6 +62,7 @@ If you find this list useful, you can also support it directly making a donation
 - [Portfolio](#portfolio)
 - [What´s cooking?](#whats-cooking)
 - [Contribute](#contribute)
+- [Donate](#donate)
 - [License](#license)
 
 
@@ -3513,13 +3507,39 @@ New sections are coming...
 - Meetups & Events
 
 ```
-
+<br>
 
 ## Contribute
 
 Whether you find a nice link, noticed a bug/broken link; or just want to improve this project, all contributions are welcome!
 
 Please take a look at the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines first.
+
+<br>
+
+## Donate
+
+If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
+
+<a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">BTC:</span>
+ &nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz</span>
+
+<a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">ETH:</span>
+ &nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">0x2a4a95A050d1842AAADf04277F493E9946713466</span>
+
+<a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">LTC:</span>
+ &nbsp;&nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81</span>
+
+<a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">BCH:</span>
+ &nbsp;&nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60</span>
+
+<a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">NEO:</span>
+ &nbsp;&nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS</span>
+
+<a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">DASH:</span>
+&nbsp;&nbsp;&nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh</span>
+
+<br>
 
 ## License
 
