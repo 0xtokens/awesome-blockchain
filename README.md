@@ -1561,7 +1561,7 @@ Some like [LocalBitcoins](https://localbitcoins.com/?ch=rpkf)[&#x25BE;](https://
 [![](http://www.google.com/s2/favicons?domain=https://localethereum.com) **localethereum**](https://localethereum.com) &nbsp;
     ![Anonymous](./img/incognito.png "No need for KYC (email only)") &nbsp;
     ![](http://www.countryflags.io/AU/shiny/16.png "Australia") &#x25BE; 
-    ![Languages](./img/language.png "English, Russian, Chinese, Español, Italian, Português, Indian")
+    ![Languages](./img/language.png "English, Russian, Chinese, Español, Italian, Português, Hindi")
     ![Currencies](./img/currency.png "Currencies: Local currencies in 100+ countries")
     ![Payment Methods](./img/payment.png "Multiple payment methods: PayPal, International wire, Gif card, S€PA transfer, Wertern Union, MoneyGram, Skrill, PAYEER, TransferWise, Venmo, Cash (in person), and more...")
     ![PayPal](./img/paypal.png "PayPal")
@@ -3004,6 +3004,99 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     [![API](./img/api.png "API")](http://docs.bitshares.org/api/)  
     &nbsp; &nbsp; &nbsp;"Offers a stack of financial services including exchange and banking on a blockchain. SmartCoins, price-stable cryptocurrencies"
 
+<!-- Waves Platform -->
+[![](http://www.google.com/s2/favicons?domain=https://wavesplatform.com/) **Waves Platform**](https://wavesplatform.com/) &nbsp;
+    ![Anonymous](./img/incognito.png "User Controls Funds, No need for registration/KYC, Private, Anonymous") &nbsp;
+    ![](http://www.countryflags.io/RU/shiny/16.png "Rusia") &#x25BE; 
+    ![Languages](./img/language.png "English, Russian, Chinese, Korean, Hindi")
+    ![Currencies](./img/currency.png "USD, EUR through coinomat.com gateway partner https://coinomat.com/")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/waves-dex/)
+    ![Payment Methods](./img/payment.png "https://coinomat.com/ S€PA/Swift and Credit Cards")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "WAVES Token")](https://coinmarketcap.com/es/currencies/waves/)
+    [![Wallet](./img/wallet.png "(Web Client, Beta)")](https://beta.wavesplatform.com/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://wavesplatform.com/product)
+    &nbsp;
+    [![iOS app](./img/app-store.png "iOS app (wallet)")](https://itunes.apple.com/us/app/waves-wallet/id1233158971?mt=8)
+    [![Android app](./img/google-play.png "Android app (wallet)")](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/wavesplatform)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/Wavesplatform/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/wavesplatform/)
+    [![API](./img/api.png "API")](https://wavesplatform.com/developers)  
+    &nbsp; &nbsp; &nbsp;"Trade your asset tokens without moving your funds to a third part controlled environment"
+
+<!-- Kyber Network -->
+[![](http://www.google.com/s2/favicons?domain=https://home.kyber.network/) **Kyber Network**](https://home.kyber.network/) &nbsp;
+    ![Anonymous](./img/incognito.png "No deposit or registration required") &nbsp;
+    ![](http://www.countryflags.io/SG/shiny/16.png "Singapore") &#x25BE; 
+    ![Languages](./img/language.png "English, Chinese, Korean, Vietanamese")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/kyber-network/)
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "Exchange Token KNC")](https://coinmarketcap.com/es/currencies/kyber-network/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")](https://developer.kyber.network/docs/MiscellaneousGuide)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/kybernetwork)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/kybernetwork/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/kybernetwork)
+    [![API](./img/api.png "API")](http://developer.kyber.network/)
+    [![Careers](./img/careers.png "Careers")](https://kyber.network/careers)  
+    &nbsp; &nbsp; &nbsp;"On-chain, instant and liquid platform for exchange ERC20 tokens"
+
+<!-- NXT Platform-->
+[![](http://www.google.com/s2/favicons?domain=https://nxtplatform.org/) **NXT Platform**](https://nxtplatform.org/) &nbsp;
+    ![Anonymous](./img/incognito.png "Anonymous Transactions") &nbsp;
+    ![Languages](./img/language.png "English")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "NXT Proof-of-Stake coin")](https://coinmarketcap.com/es/currencies/nxt/)
+    &nbsp; -
+    ![Fees](./img/fees.png "fees ?")
+    &nbsp;
+    [![Android app](./img/google-play.png "Android app")](https://nxtplatform.org/download/)
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/nxtcommunity)
+    [![reddit](./img/reddit.png "reddit")](http://www.reddit.com/r/nxt)
+    [![GitHub](./img/github.png "GitHub")](https://bitbucket.org/JeanLucPicard/nxt/overview)
+    [![API](./img/api.png "API")](http://nxtpeers.com/index.php)  
+    &nbsp; &nbsp; &nbsp;"More than an exchange, a complete and decentralized platform."
+
+<!-- Bancor Network -->
+[![](http://www.google.com/s2/favicons?domain=https://www.bancor.network/) **Bancor Network**](https://about.bancor.network) &nbsp;
+    ![](http://www.countryflags.io/CH/shiny/16.png "Zug, Switzerland") &#x25BE; 
+    ![Languages](./img/language.png "English")
+    ![Currencies](./img/currency.png "EUR, USD")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")](https://coinmarketcap.com/es/exchanges/bancor-network/)
+    ![Payment Methods](./img/payment.png "Visa/Mastercard")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "BNT Token")](https://coinmarketcap.com/es/currencies/bancor/)
+    &nbsp; -
+    [![Fees](./img/fees.png "fees")]()
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/Bancor)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/Bancor/)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/17986744/)
+    [![Careers](./img/careers.png "Careers")](https://about.bancor.network/careers/)  
+    &nbsp; &nbsp; &nbsp;"Decentralized liquidity network that allows you to hold any token and convert it to any other token in the network, with no counter party, at an automatically calculated price, using a simple web wallet."
+
+<!-- Counterparty -->
+[![](http://www.google.com/s2/favicons?domain=https://counterparty.io/) **Counterparty**](https://counterparty.io/) &nbsp;
+    ![Anonymous](./img/incognito.png "") &nbsp;
+    &#x25BE; 
+    ![Languages](./img/language.png "English, Russian, Chinese, Korean")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "Token XCP")](https://coinmarketcap.com/es/currencies/counterparty/)
+    [![Wallet](./img/wallet.png "Platform Wallet")](https://counterparty.io/platform/#wallet)
+    &nbsp; -
+    ![Fees](./img/fees.png "fees ?")
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](http://twitter.com/CounterpartyXCP)
+    [![GitHub](./img/github.png "GitHub")](http://github.com/CounterpartyXCP)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/3644957)
+    [![API](./img/api.png "API")](https://counterparty.io/docs/api/)  
+    &nbsp; &nbsp; &nbsp;"Counterparty is a peer-to-peer finance platform built on top of the Bitcoin protocol."
+
 <!-- Openledger -->
 [![](http://www.google.com/s2/favicons?domain=https://openledger.io) **Openledger**](https://dex.openledger.io/) &nbsp;
     ![Anonymous](./img/incognito.png "No need for registration/KYC, Private, Fast and Anonymous Transactions") &nbsp;
@@ -3210,7 +3303,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     - &nbsp; 
     ![Atomic](./img/atomic.png "Atomic Swap Technology")
     &nbsp; -
-    ![Fees](./img/fees.png "fees: not yet specified")]
+    ![Fees](./img/fees.png "fees: not yet specified")
     &nbsp;
     [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/altcoin_io)
     [![GitHub](./img/github.png "GitHub")](https://github.com/AltCoinExchange/ethatomicswap)  
@@ -3294,16 +3387,30 @@ Another advantage to the decentralized model is the privacy it provides. Users a
     [![GitHub](./img/github.png "GitHub")](https://github.com/BlocknetDX/)
     [![API](./img/api.png "API")](https://api.blocknet.co/)  
     &nbsp; &nbsp; &nbsp;"Block DX is a truly decentralized exchange that enables trading freedom for connected blockchain communities. Listing on Block DX is free and does not require our permission or control"
+
+<!-- Legolas Exchange -->
+[![](http://www.google.com/s2/favicons?domain=https://lgo.exchange/) **Legolas Exchange**](https://lgo.exchange/) <sub>(Developing)</sub> &nbsp;
+    ![Anonymous](./img/incognito.png "") &nbsp;
+    ![](http://www.countryflags.io/FR/shiny/16.png "Paris, France") &#x25BE; 
+    ![Languages](./img/language.png "German, English, Spanish, French, Russian, Japanese, Korean, Chinese")
+    ![Currencies](./img/currency.png "USD, EUR")
+    [![CoinMarketCap](./img/cmcap.png "CoinMarketCap")]()
+    ![Payment Methods](./img/payment.png "?")
+    - &nbsp; 
+    [![Exchange Coin](./img/excoin.png "LGO Token")](https://coinmarketcap.com/es/currencies/legolas-exchange/)
+    &nbsp; -
+    ![Fees](./img/fees.png "fees ?")
+    &nbsp;
+    [![Twitter](./img/twitter.png "Twitter")](https://twitter.com/LegolasExchange?lang=en)
+    [![reddit](./img/reddit.png "reddit")](https://www.reddit.com/r/LegolasExchange/)
+    [![GitHub](./img/github.png "GitHub")](https://github.com/LegolasExchange/LegolasToken)
+    [![Linkedin](./img/linkedin.png "Linkedin")](https://www.linkedin.com/company/11261260/)  
+    &nbsp; &nbsp; &nbsp;"LGO Exchange creates a new decentralized blockchain protocol that guarantees full transparency and prevents front-running and market manipulation"
 <br>
 
 > [<sub>List of exchanges not yet reviewed</sub>](./not-reviewed.md)
 
 <br>
-
-
-###  DEX Platforms (Exchange + Dev. Platform)
-
-Coming soon...
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
