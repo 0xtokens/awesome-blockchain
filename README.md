@@ -51,7 +51,6 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 	- [P2P Marketplaces](#p2p-marketplaces)
 	- [Trading Platforms](#trading-platforms)
 	- [Decentralized Exchanges (DEX)](#decentralized-exchanges-dex)
-	- [DEX Platforms (Exchange + Dev. Platform)](#dex-platforms-exchange-dev-platform)
 	- [Comparative overview between Advanced Trading Features](#comparative-overview-between-advanced-trading-features)
 	- [Cryptocurrency Investment Brokers](#cryptocurrency-investment-brokers)
 	- [Crypto&#8596;Crypto conversion platforms](#cryptocrypto-conversion-platforms)
@@ -3628,22 +3627,25 @@ Please take a look at the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines first.
 
 If you find this list useful, you can also support it directly making a donation (no matter how small) to any of these wallet addresses:  
 
-<a target="_blank" href="./qr-codes/qr-btc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">BTC:</span>
+<a target="_blank" href="./qr-codes/doge.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">DOGE:</span>
+ &nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">DBQ6UAo8gAXh1LhftD5XDSe7byJdNNjVLv</span>
+
+<a target="_blank" href="./qr-codes/btc.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">BTC:</span>
  &nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">1AEEDHrS6awC3R3jY79dEshrGTgqGEouyz</span>
 
-<a target="_blank" href="./qr-codes/qr-eth.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">ETH:</span>
+<a target="_blank" href="./qr-codes/eth.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">ETH:</span>
  &nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">0x2a4a95A050d1842AAADf04277F493E9946713466</span>
 
-<a target="_blank" href="./qr-codes/qr-ltc.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">LTC:</span>
+<a target="_blank" href="./qr-codes/ltc.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">LTC:</span>
  &nbsp;&nbsp; &nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">Lhn6HJY1e67kbzpqQcftkin2Wo8ytx7z81</span>
 
-<a target="_blank" href="./qr-codes/qr-bch.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">BCH:</span>
+<a target="_blank" href="./qr-codes/bch.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">BCH:</span>
  &nbsp;&nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">qz4y8s3rhvkvfea2dre8qxk02fmszmqxgcsakvdh60</span>
 
-<a target="_blank" href="./qr-codes/qr-neo.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">NEO:</span>
+<a target="_blank" href="./qr-codes/neo.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">NEO:</span>
  &nbsp;&nbsp; &nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">AJD9NQfoYS2Xy197oyhFVcxTJFt5CqexnS</span>
 
-<a target="_blank" href="./qr-codes/qr-dash.png">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">DASH:</span>
+<a target="_blank" href="./qr-codes/dash.md">![decode](./img/qr-scan.png "Scan QR-code")</a> &nbsp; <span style="font-size: 1.2em;">DASH:</span>
 &nbsp;&nbsp;&nbsp; <span style="font-size: 1.2em; letter-spacing: 0.15em;">Xih5n81TRG9FNx8qUSuimUGyH4isGtUYWh</span>
 
 <br>
