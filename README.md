@@ -2937,7 +2937,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
 
 - [Understanding a Decentralized Exchange](https://www.cryptocompare.com/exchanges/guides/what-is-a-decentralized-exchange/) - by TheBlocknet
 - [Understanding Decentralized Exchanges](https://hackernoon.com/understanding-decentralized-exchanges-51b70ed3fe67) - by Dominiek Ter Heide
-
+- [Protocols for Decentralized Exchange](https://github.com/evbots/dex-protocols) - List of protocols for peer-to-peer exchange of cryptographic assets.
 ```
 # HomePage - CountryFlag - Langs|Currencies|Markets|PaymentMethods -  Exchange Features  - Some links
   "Slogan "
