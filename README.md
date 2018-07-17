@@ -326,6 +326,17 @@ Communications with exchanges will be more secure if you use an encrypted email.
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.xdac.co/)&nbsp; **xDAC**](https://www.xdac.co/) - Build Your Decentralized Company. Self-governed platform for creating and managing Decentralized Autonomous Companies.  
 &nbsp; [![](http://www.google.com/s2/favicons?domain=http://emercoin.com/)&nbsp; **Emercoin**](http://emercoin.com/) <sub><sup>([EMC](https://coinmarketcap.com/es/currencies/emercoin/))</sup></sub> - Distributed blockchain services for business and personal use with its own decentralized DNS system.  
 
+<br>
+
+### Private Blockchains
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.hyperledger.org/)&nbsp; **Hyperledger**](https://www.hyperledger.org/) - Open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://azure.microsoft.com/)&nbsp; **Azure blockchain**](https://azure.microsoft.com/en-us/solutions/blockchain/) - Azure Blockchain as a Service.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.ibm.com/blockchain/)&nbsp; **IBM blockchain**](http://www.ibm.com/blockchain/) - IBM Blockchain Platform.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.multichain.com/)&nbsp; **Multichain**](http://www.multichain.com/) - Open platform for building blockchains.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.corda.net/)&nbsp; **Corda**](https://www.corda.net/) - Open source blockchain for business. Allows to build interoperable blockchain networks that transact in privacy.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://openchain.org/)&nbsp; **Openchain**](http://openchain.org/) - Blockchain technology for the enterprise. Is an open source distributed ledger technology.
+
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
 ## Blockchain Proyects
