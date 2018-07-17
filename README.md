@@ -510,7 +510,7 @@ Communications with exchanges will be more secure if you use an encrypted email.
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://brave.com/)&nbsp; **Brave**](https://brave.com/) <sub><sup>([BAT](https://coinmarketcap.com/es/currencies/basic-attention-token/))</sup></sub> - Features blockchain-based tokens which can be used to reward content creators.  
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.bitclave.com/)&nbsp; **BitClave**](https://www.bitclave.com/) <sub><sup>([CAT](https://coinmarketcap.com/es/currencies/bitclave/))</sup></sub> - Helps to get value from your search data.  
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.presearch.io/)&nbsp; **PreSearch**](https://www.presearch.org/signup?rid=190778) <sub><sup>([PRE](https://coinmarketcap.com/es/currencies/presearch/))</sup></sub> - Decentralized search engine powered by the community.  
-&nbsp; - [![](http://www.google.com/s2/favicons?domain=)&nbsp; **Status**](https://status.im/) <sub><sup>([SNT](https://coinmarketcap.com/es/currencies/status/))</sup></sub> - Mobile Ethereum OS. Browse, chat and make payments on the decentralized web. The Ethereum discovery tool.
+&nbsp; - [![](http://www.google.com/s2/favicons?domain=https://status.im/)&nbsp; **Status**](https://status.im/) <sub><sup>([SNT](https://coinmarketcap.com/es/currencies/status/))</sup></sub> - Mobile Ethereum OS. Browse, chat and make payments on the decentralized web. The Ethereum discovery tool.
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
