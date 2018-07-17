@@ -45,7 +45,10 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 
 - [For Dummies](#for-dummies)
 - [Where to Start?](#where-to-start)
-- [Blockchain Platforms](#blockchain-platforms)
+- [Cryptocurrencies](#cryptocurrencies)
+- [Blockchain Application Platforms](#blockchain-application-platforms)
+- [Enterprise and Private Blockchains](#enterprise-and-private-blockchains)
+- [Blockchain Proyects](#blockchain-proyects)
 - [Exchange and Trading](#exchange-and-trading)
 	- [FIAT&#8596;Crypto Exchanges](#fiatcrypto-exchanges)
 	- [P2P Marketplaces](#p2p-marketplaces)
@@ -138,27 +141,27 @@ Main whitepapers:
 
 ### Exchange your digital assets
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://www.binance.com/)&nbsp; **Binance**](https://www.binance.com/?ref=23138567) [&#x25BE;](https://www.binance.com/) Exchange the World. (Lowest fees!)
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.binance.com/)&nbsp; **Binance**](https://www.binance.com/?ref=23138567) [&#x25BE;](https://www.binance.com/) Exchange the World. (Lowest fees!)
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://www.kucoin.com/)&nbsp; **Kucoin**](https://www.kucoin.com/#/?r=HMu2Rv) [&#x25BE;](https://www.kucoin.com/) International blockchain assets exchange.
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.kucoin.com/)&nbsp; **Kucoin**](https://www.kucoin.com/#/?r=HMu2Rv) [&#x25BE;](https://www.kucoin.com/) International blockchain assets exchange.
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://www.huobi.pro/)&nbsp; **Huobi**](https://www.huobi.br.com/es-es/topic/invited/?invite_code=kch93) [&#x25BE;](https://www.huobi.pro/) The leading global digital asset exchange.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.huobi.pro/)&nbsp; **Huobi**](https://www.huobi.br.com/es-es/topic/invited/?invite_code=kch93) [&#x25BE;](https://www.huobi.pro/) The leading global digital asset exchange.  
 <br>
 
 ### Where to conduct market research and check cryptocurrency signals?
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://coinmarketcap.com/)&nbsp; **CoinMarketCap**](https://coinmarketcap.com/) &#x25BE; Cryptocurrency market cap rankings, charts, and more!
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://coinmarketcap.com/)&nbsp; **CoinMarketCap**](https://coinmarketcap.com/) &#x25BE; Cryptocurrency market cap rankings, charts, and more!
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://www.tradingview.com/)&nbsp; **TradingView**](https://tradingview.go2cloud.org/SH2Co) [&#x25BE;](https://www.tradingview.com/) Research and blogging platform for financial markets. Free charts & data.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.tradingview.com/)&nbsp; **TradingView**](https://tradingview.go2cloud.org/SH2Co) [&#x25BE;](https://www.tradingview.com/) Research and blogging platform for financial markets. Free charts & data.  
 <br>
 
 ### Start shopping with cryptocurrencies
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://purse.io)&nbsp; **Purse**](https://app.purse.io/?_r=gPBUzH) [&#x25BE;](https://purse.io/) Save +15% on Your Amazon Order with Bitcoin and Bitcoin Cash!
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://purse.io)&nbsp; **Purse**](https://app.purse.io/?_r=gPBUzH) [&#x25BE;](https://purse.io/) Save +15% on Your Amazon Order with Bitcoin and Bitcoin Cash!
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://www.openbazaar.org/)&nbsp; **OpenBazaar**](https://www.openbazaar.org/) &#x25BE; Open source, decentralized marketplace for peer-to-peer commerce using cryptocurrency.
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.openbazaar.org/)&nbsp; **OpenBazaar**](https://www.openbazaar.org/) &#x25BE; Open source, decentralized marketplace for peer-to-peer commerce using cryptocurrency.
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://coinmap.org/)&nbsp; **CoinMap**](https://coinmap.org/) &#x25BE; Find a Bitcoin Merchant Near You.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://coinmap.org/)&nbsp; **CoinMap**](https://coinmap.org/) &#x25BE; Find a Bitcoin Merchant Near You.  
 <br>
 
 ### Keep Your Cryptocurrencies Safely
@@ -195,7 +198,7 @@ If you want to HOLD your cryptocurrencies for a long time, you can choose a **co
 
 Communications with exchanges will be more secure if you use an encrypted email.
 
-&nbsp;[![](http://www.google.com/s2/favicons?domain=https://protonmail.com/)&nbsp; **Protonmail**](hhttps://protonmail.com/) &#x25BE; Secure email that respects your privacy, brought to you by CERN scientists.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://protonmail.com/)&nbsp; **Protonmail**](hhttps://protonmail.com/) &#x25BE; Secure email that respects your privacy, brought to you by CERN scientists.  
 <br>
 
 ### Keep learning
@@ -215,6 +218,343 @@ Communications with exchanges will be more secure if you use an encrypted email.
 - [American Kingpin:](https://amzn.to/2zh8deh) Catching the Billion-Dollar Baron of the Dark Web.
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## Cryptocurrencies
+
+- [Cryptoassets:](https://amzn.to/2u0GCc6) The Innovative Investor's Guide to Bitcoin and Beyond. - by Chris Burniske & Jack Tatar
+- [Still looking for a solid framework to understand cryptoassets?](https://amzn.to/2u0GCc6) - by Benas Bizevičius
+
+<br>
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://bitcoin.org)&nbsp; **Bitcoin**](https://bitcoin.org) <sub><sup>([BTC](https://coinmarketcap.com/es/currencies/bitcoin/))</sup></sub> -	Most popular cryptocurrency on Blockchain. Payment network and a new kind of currency to be used as digital money.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.bitcoincash.org/)&nbsp; **Bitcoin Cash**](https://www.bitcoincash.org/) <sub><sup>([BCH](https://coinmarketcap.com/es/currencies/bitcoin-cash/))</sup></sub> - Bitcoin fork with capacity to process blocks of data of 32 MB.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://litecoin.org/)&nbsp; **Litecoin**](https://litecoin.org/) <sub><sup>([LTC](https://coinmarketcap.com/es/currencies/litecoin/))</sup></sub> - Litecoin is an alternative cryptocurrency based on the model of Bitcoin that enables instant, near-zero transaction costs.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.stellar.org/)&nbsp; **Stellar**](https://www.stellar.org/) <sub><sup>([XLM](https://coinmarketcap.com/es/currencies/stellar/))</sup></sub> - Free, open-source network that connects banks, payments systems, and people. Lets build financial products to move money quickly, and at almost no cost.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://nano.org/)&nbsp; **Nano**](https://nano.org/en) <sub><sup>([NANO](https://coinmarketcap.com/es/currencies/nano/))</sup></sub> - Digital currency with fast transactions and zero fees, over a decentralized network.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.decred.org/)&nbsp; **Decred**](https://www.decred.org/) <sub><sup>([DCR](https://coinmarketcap.com/es/currencies/decred/))</sup></sub> - Autonomous Digital Currency. Built to be decentralized, sustainable, & self-ruling where stakeholders make the rules.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://dogecoin.com/)&nbsp; **Dogecoin**](https://dogecoin.com/) <sub><sup>([DOGE](https://coinmarketcap.com/es/currencies/dogecoin/))</sup></sub> - Has gained traction as an Internet tipping system, in which social media users grant Dogecoin tips to other users for providing interesting or noteworthy content.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://bitcoingold.org/)&nbsp; **Bitcoin Gold**](https://bitcoingold.org/) <sub><sup>([BTG](https://coinmarketcap.com/es/currencies/bitcoin-gold/))</sup></sub> - Bitcoin hard fork. The stated purpose is to restore the mining functionality with GPUs, instead of ASIC.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://btcd.io)&nbsp; **Bitcoin Diamond**](http://btcd.io) <sub><sup>([BCD](https://coinmarketcap.com/es/currencies/bitcoin-diamond/))</sup></sub> - Bitcoin fork that occurs at the predetermined height of block 495866. The main difference with Bitcoin is that they multiplied the supply by 10.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://monacoin.org/)&nbsp; **Monacoin**](https://monacoin.org/) <sub><sup>([MONA](https://coinmarketcap.com/es/currencies/monacoin/))</sup></sub> - Fully distributed payment system preserved by everyone who uses it via client applications running on their computers.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://digix.global/)&nbsp; **DigixDao**](https://digix.global/) <sub><sup>([DGD](https://coinmarketcap.com/es/currencies/digixdao/))</sup></sub> - Represent physical gold with DGX tokens, where 1 DGX represents 1 gram of gold on Ethereum.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Privacy Cryptocurrencies
+
+- [Privacy Coin Matrix:](https://goo.gl/GkNP7e) Detailed study of the technology behind the privacy cryptos - by [r/PrivacyCoinMatrix](https://www.reddit.com/r/PrivacyCoinMatrix/)
+
+<br>
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://getmonero.org)&nbsp; **Monero**](https://getmonero.org) <sub><sup>([MXR](https://coinmarketcap.com/es/currencies/monero/))</sup></sub> - Most popoular privacy-focused cryptocurrency. Anonymous, Fungible & Untraceable. It is open-source and freely available to all.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.dash.org/)&nbsp; **DASH**](https://www.dash.org/) <sub><sup>([DASH](https://coinmarketcap.com/es/currencies/dash/))</sup></sub> - (Digital Cash) Open source peer-to-peer cryptocurrency that offers instant transactions, private transactions and token fungibility.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://z.cash/)&nbsp; **Zcash**](https://z.cash/) <sub><sup>([ZEC](https://coinmarketcap.com/es/currencies/zcash/))</sup></sub> - Open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography (the first Zerocash implementation).  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://vergecurrency.com/)&nbsp; **Verge**](https://vergecurrency.com/) <sub><sup>([XVG](https://coinmarketcap.com/es/currencies/verge/))</sup></sub> - Anonymous cryptocurrency. Built with a focus on privacy, with integrated tor and stealth addresses.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://pivx.org/)&nbsp; **PIVX**](https://pivx.org/) <sub><sup>([PIVX](https://coinmarketcap.com/es/currencies/pivx/))</sup></sub> - Fast and low cost privacy-focused digital currency, using a Proof of Stake (PoS) consensus system algorithm.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://btcprivate.org/)&nbsp; **Bitcoin Private**](https://btcprivate.org/) <sub><sup>([BTCP](https://coinmarketcap.com/es/currencies/bitcoin-private/))</sup></sub> - Code fork of ZClassic and chain fork of BTC.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://komodoplatform.com/)&nbsp; **Komodo**](https://komodoplatform.com/#) _Exchange and Platform_ <sub><sup>([KMD](https://coinmarketcap.com/es/currencies/komodo/))</sup></sub> - Privacy coin, dICO platform, security service, & decentralized exchange.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/zcoin.png)&nbsp; **ZCoin**](https://zcoin.io/) <sub><sup>([XZC](https://coinmarketcap.com/es/currencies/zcoin/))</sup></sub> -  First full implementation of the Zerocoin Protocol, which allows users to have complete privacy via Zero-Knowledge cryptographic proofs.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://zclassic.org/)&nbsp; **ZClassic**](http://zclassic.org/) <sub><sup>([ZCL](https://coinmarketcap.com/es/currencies/zclassic/))</sup></sub> - ZCash fork without the founder award;removing the 20% fee.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://zensystem.io/)&nbsp; **Zencash**](https://zensystem.io/) <sub><sup>([ZEN](https://coinmarketcap.com/es/currencies/zencash/))</sup></sub> - ZClassic fork with additional features.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://particl.io/)&nbsp; **Particl**](http://particl.io/) _Marketplace_ <sub><sup>([PART](https://coinmarketcap.com/es/currencies/particl/))</sup></sub> - Private currency, decentralized marketplace Private, crypto agnostic.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.groestlcoin.org/)&nbsp; **Groestlcoin**](https://www.groestlcoin.org/) <sub><sup>([GRS](https://coinmarketcap.com/es/currencies/groestlcoin/))</sup></sub> - Asic resistant litecoin fork.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://navcoin.org/)&nbsp; **Nav-Coin**](https://navcoin.org/) <sub><sup>([NAV](https://coinmarketcap.com/es/currencies/nav-coin/))</sup></sub> - Private dApp platform.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://deeponion.org/)&nbsp; **DeepOnion**](https://deeponion.org/) <sub><sup>([ONION](https://coinmarketcap.com/es/currencies/deeponion/))</sup></sub> - Coin with integrated tor and stealth addresses.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://phore.io/)&nbsp; **Phore**](https://phore.io/) _Marketplace_ <sub><sup>([PHR](https://coinmarketcap.com/es/currencies/phore/))</sup></sub> - PIVX fork aspiring to be a decentralized marketplace.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://zoinofficial.com/)&nbsp; **Zoin**](http://zoinofficial.com/) <sub><sup>([ZOI](https://coinmarketcap.com/es/currencies/zoin/))</sup></sub> - Coin of Zerocoin protocol. Decentralized digital currency with anonymous features and community governance.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://colossuscoinxt.org/)&nbsp; **ColossusCoinXT**](http://colossuscoinxt.org/) _Storage network_ <sub><sup>([COLX](https://coinmarketcap.com/es/currencies/colossusxt/))</sup></sub> - Clone of pre-zerocoin PIVX.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/spectrecoin.png)&nbsp; **Spectrecoin**](https://spectreproject.io/) <sub><sup>([XSPEC](https://coinmarketcap.com/es/currencies/spectrecoin/))</sup></sub> - Proof of Stake Monero.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.sumokoin.org/)&nbsp; **Sumokoin**](https://www.sumokoin.org/) <sub><sup>([SUMO](https://coinmarketcap.com/es/currencies/sumokoin/))</sup></sub> - Monero clone with additional mixins.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://bytecoin.org/)&nbsp; **Bytecoin**](https://bytecoin.org/) <sub><sup>([BCN](https://coinmarketcap.com/es/currencies/bytecoin-bcn/))</sup></sub> - Bytecoin is an open-sourced decentralized cryptocurrency with untraceable payments that was started in 2012.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### StableCoins
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://tether.to/)&nbsp; **Tether**](https://tether.to/) <sub><sup>([USDT](https://coinmarketcap.com/es/currencies/tether/))</sup></sub> - First and most popular stablecoin. Cconverts cash into digital currency, to anchor the value to the price of national currencies like the US dollar, the Euro, and the Yen.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/true-usd.png)&nbsp; **TrueUSD**](https://www.trusttoken.com/trueusd/) <sub><sup>(TUSD)</sup></sub> - Asset backed stablecoin that you can redeem 1-for-1 for US dollars.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.makerdao.com/)&nbsp; **Dai**](http://www.makerdao.com/) <sub><sup>([DAI](https://coinmarketcap.com/es/currencies/dai/))</sup></sub> -  Cryptocurrency that is price stabilized against the value of the USD. Created by the Dai Stablecoin System, a decentralized platform that runs on the Ethereum blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://basis.io/)&nbsp; **Basis**](https://basis.io/) <sub><sup>(?)</sup></sub> - A stable cryptocurrency with an algorithmic central bank.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## Blockchain Application Platforms
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.ethereum.org/)&nbsp; **Ethereum**](https://www.ethereum.org/) <sub><sup>([ETH](https://coinmarketcap.com/es/currencies/ethereum/))</sup></sub> - Decentralized platform that runs smart contracts & DApps without any possibility of downtime, censorship, fraud or third party interference.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ethereumclassic.org/)&nbsp; **Ethereum Classic**](https://ethereumclassic.org/) <sub><sup>([ETC](https://coinmarketcap.com/es/currencies/ethereum-classic/))</sup></sub> - Hard-fork that´s is continuation of the original Ethereum blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.nem.io)&nbsp; **NEM**](https://www.nem.io) <sub><sup>([XEM](https://coinmarketcap.com/es/currencies/nem/))</sup></sub> - Platform that has introduced new features to blockchain technology such as its proof-of-importance (POI) algorithm, multisignature accounts, encrypted messaging, and an Eigentrust++ reputation system.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://nxt.org)&nbsp; **NXT**](https://nxt.org) <sub><sup>([NXT](https://coinmarketcap.com/es/currencies/nxt/))</sup></sub> - Exchange and blockchain platform which builds on and improves the basic functionality of cryptocurrencies such as Bitcoin.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.ardorplatform.org/)&nbsp; **Ardor**](https://www.ardorplatform.org/) <sub><sup>([ARDR](https://coinmarketcap.com/es/currencies/ardor/))</sup></sub> - Blockchain-as-a-service platform that will allow people to utilize the blockchain technology of Nxt through the use of child chains.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://cosmos.network/)&nbsp; **Cosmos Network**](https://cosmos.network/) - Decentralized network of independent parallel blockchains, each powered by classical BFT consensus algorithms.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.expanse.tech/)&nbsp; **Expanse**](http://www.expanse.tech/) <sub><sup>([EXP](https://coinmarketcap.com/es/currencies/expanse/))</sup></sub> - Fault tolerant cloud computer built on blockchain technology that facilitates censorship resistant applications.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://pchain.org/)&nbsp; **PChain**](https://pchain.org/) <sub><sup>([PAI](https://coinmarketcap.com/es/currencies/pchain/))</sup></sub> - First native multi-chain system that supports EVM, and it makes large scale blockchain applications possible.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://zilliqa.com/)&nbsp; **Zilliga**](https://zilliqa.com/) <sub><sup>([ZIL](https://coinmarketcap.com/es/currencies/zilliqa/))</sup></sub> - High throughput blockchain platform designed to scale.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/neo.png)&nbsp; **Neo**](https://neo.org/en-us/) <sub><sup>([NEO](https://coinmarketcap.com/es/currencies/neo/))</sup></sub> - China's first ever original and open source public chain project, it serves as a smart assets platform. Allows for a smarter way for assets registration, issuance, and circulation.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://eos.io/)&nbsp; **Eos**](https://eos.io/) <sub><sup>([EOS](https://coinmarketcap.com/es/currencies/eos/))</sup></sub> - Infrastructure that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.cardano.org/en/home/)&nbsp; **Cardano**](https://www.cardano.org/en/home/) <sub><sup>([ADA](https://coinmarketcap.com/es/currencies/cardano/))</sup></sub> - Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://lisk.io//)&nbsp; **Lisk**](https://lisk.io/) <sub><sup>([LSK](https://coinmarketcap.com/es/currencies/lisk/))</sup></sub> - Blockchain application platform that inspires, enables and supports developers to build decentralized applications written in JavaScript.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.achain.com/)&nbsp; **Achain**](https://www.achain.com/) <sub><sup>([ACT](https://coinmarketcap.com/es/currencies/achain/))</sup></sub> - Public blockchain platform that enables developers of all levels to issue tokens and create smart contracts, decentralized applications and blockchain systems.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://komodoplatform.com/)&nbsp; **Komodo**](https://komodoplatform.com/) <sub><sup>([KMD](https://coinmarketcap.com/es/currencies/komodo/))</sup></sub> - End-to-end Blockchain Solutions Provider empowering developers to build freely and participate in creating the largest open blockchain network.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://enigma.co/)&nbsp; **Enigma Proyect**](https://enigma.co/) <sub><sup>([ENG](https://coinmarketcap.com/es/currencies/enigma-project/))</sup></sub> - Enigma is using groundbreaking privacy technology to build the first platform for scalable, end-to-end decentralized apps.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://qtum.org/)&nbsp; **Qtum**](https://qtum.org/) <sub><sup>([QTUM](https://coinmarketcap.com/es/currencies/qtum/))</sup></sub> - Decentralized Blockchain application platform capable of running Smart Contracts on multiple virtual machines, with Proof-of-Stake consensus. Combining a modified Bitcoin Core infrastructure with an intercompatible version of the Ethereum Virtual Machine (EVM).  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ubiqsmart.com/)&nbsp; **Ubiq**](https://ubiqsmart.com/) <sub><sup>([UBQ](https://coinmarketcap.com/es/currencies/ubiq/))</sup></sub> - Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, allowing developers to create decentralized and automated solutions.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.hederahashgraph.com/)&nbsp; **Hedera Hashgraph**](https://www.hederahashgraph.com/)  <sub><sup>(-)</sup></sub> - Offer a public, distributed ledger that enables globally distributed applications.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://aeternity.com/)&nbsp; **Aeternity**](https://aeternity.com/) <sub><sup>([AE](https://coinmarketcap.com/es/currencies/aeternity/))</sup></sub> - Scalable blockchain platform that enables high-speed transacting, purely-functional smart contracts, and decentralized oracles. Coded in Erlang.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ont.io/)&nbsp; **Ontology**](https://ont.io/) <sub><sup>([ONT](https://coinmarketcap.com/es/currencies/ontology/))</sup></sub> - Provides new high-performance public blockchains that include a series of complete distributed ledgers and smart contract systems.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://rise.vision/)&nbsp; **RISE**](https://rise.vision/) <sub><sup>([RISE](https://coinmarketcap.com/es/currencies/rise/))</sup></sub> - Offers a platform for Decentralized Distributed Applications (DAPPs), powered by a community driven Delegated Proof of Stake (DPoS) blockchain. JS, TS, Python, C#.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.asch.io/)&nbsp; **Asch**](https://www.asch.io/) <sub><sup>([XAS](https://coinmarketcap.com/es/currencies/asch/))</sup></sub> - Blockchain application development platform based on side chain architecture.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/moac.png)&nbsp; **Moac**](http://moac.io) <sub><sup>([MOAC](https://coinmarketcap.com/es/currencies/moac/))</sup></sub> -  Multi-Layer blockchain architecture: blockchain platform with necessary plumbing parts available to sub blockchains, providing solution for idea test, private chain deployment, complex task processing, decentralized applications etc.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://h.cash/)&nbsp; **Hcash**](https://h.cash/) - Designed to be a side chain for both block-based and blockless-based blockchains.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://tron.network/)&nbsp; **Tron**](https://tron.network/) <sub><sup>([TRX](https://coinmarketcap.com/es/currencies/tron/))</sup></sub> - One of the largest blockchain-based operating systems. Has as purpose to building the infrastructure for a truly decentralized Internet.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://nebulas.io/)&nbsp; **Nebulas**](https://nebulas.io/) <sub><sup>([NAS](https://coinmarketcap.com/es/currencies/nebulas-token/))</sup></sub> - Based on its blockchain valuation mechanism, Nebulas proposes future-oriented incentive and consensus systems, and the ability to self-evolve without forking. (The google of the blockchain).  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ark.io/)&nbsp; **Ark**](https://ark.io/) <sub><sup>([ARK](https://coinmarketcap.com/es/currencies/ark/))</sup></sub> - Aims to create an entire ecosystem of linked chains and a virtual spiderweb of endless use-cases.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://aion.network/)&nbsp; **Aion Netwok**](https://aion.network/) <sub><sup>([AION](https://coinmarketcap.com/es/currencies/aion/))</sup></sub> - Multi-tier blockchain system designed to address scalability, privacy, and interoperability.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.elastos.org/)&nbsp; **Elastos**](https://www.elastos.org/) <sub><sup>([ELA](https://coinmarketcap.com/es/currencies/elastos/))</sup></sub> - Focused on re-decentralizing Internet with blockchain to secure identity, where decentralized applications are detached from the internet while also permitting full scalability to millions of users.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://substratum.net/)&nbsp; **Substratum**](https://substratum.net/) <sub><sup>([SUB](https://coinmarketcap.com/es/currencies/substratum/))</sup></sub> - open-source network that allows anyone to allocate spare computing resources to make the internet a free and fair place for the entire world.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## Enterprise and Private Blockchains
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ripple.com/)&nbsp; **Ripple**](https://ripple.com/) <sub><sup>([XRP](https://coinmarketcap.com/es/currencies/ripple/))</sup></sub> - (Bank’s Cryptocurrency) Built for enterprise use, XRP offers banks and payment providers a reliable way to source liquidity for payments.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/nuls.png)&nbsp; **Nuls**](http://nuls.io/) <sub><sup>([NULS](https://coinmarketcap.com/es/currencies/nuls/))</sup></sub> - Adaptable blockchain for enterprise solutions.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://nebl.io/)&nbsp; **Neblio**](https://nebl.io/) <sub><sup>([NEBL](https://coinmarketcap.com/es/currencies/neblio/))</sup></sub> - A secure, distributed, platform built for enterprise applications and services. Running on the Neblio blockchain network.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://icon.foundation/)&nbsp; **ICON**](https://icon.foundation/en/) <sub><sup>([ICX](https://coinmarketcap.com/es/currencies/icon/))</sup></sub> - One of the largest blockchain networks in the world. ICON boasts independent blockchains comprised of reputable institutions in major industries ranging from: financial institutions, insurance companies, hospitals, universities and more.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://stratisplatform.com/)&nbsp; **Stratis**](https://stratisplatform.com/) <sub><sup>([STRAT](https://coinmarketcap.com/es/currencies/stratis/))</sup></sub> - End-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework. Private blockchains for all!  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.factom.com)&nbsp; **Factom**](https://www.factom.com) <sub><sup>([FCT](https://coinmarketcap.com/es/currencies/factom/))</sup></sub> - (Decentralized Notary) Provides active solutions for compliance, identity, transparent assets, and securities for Enterprise, Government and Non-Profit systems.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://dragonchain.com/)&nbsp; **Dragonchain**](https://dragonchain.com/) <sub><sup>([DRGN](https://coinmarketcap.com/es/currencies/dragonchain/))</sup></sub> - Flexible Public/Private Hybrid Blockchain Platform. Built-in protection of business data using established programming languages (Java, Python, Node, C#).  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.xdac.co/)&nbsp; **xDAC**](https://www.xdac.co/) - Build Your Decentralized Company. Self-governed platform for creating and managing Decentralized Autonomous Companies.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://emercoin.com/)&nbsp; **Emercoin**](http://emercoin.com/) <sub><sup>([EMC](https://coinmarketcap.com/es/currencies/emercoin/))</sup></sub> - Distributed blockchain services for business and personal use with its own decentralized DNS system.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+## Blockchain Proyects
+
+### Governance
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://aragon.one/)&nbsp; **Aragon**](https://aragon.one/) <sub><sup>([ANT](https://coinmarketcap.com/es/currencies/aragon/))</sup></sub> - Aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://bitnation.co/)&nbsp; **Bitnation**](https://bitnation.co/) <sub><sup>([XPAT](https://etherscan.io/address/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82))</sup></sub> - Become a world citizen. Governance 2.0: Borderless Decentralized Voluntary.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.democracy.earth/)&nbsp; **Democracy Earth**](https://www.democracy.earth/) - Governance in a post nation-state world.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Funding and Business Evaluation
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://wingsfoundation.ch/)&nbsp; **Wings**](https://wingsfoundation.ch/) <sub><sup>([WINGS](https://coinmarketcap.com/es/currencies/wings/))</sup></sub> - Decentralized applications for Blockchain-based evaluation, funding and early adopter engagement.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://starbase.co/)&nbsp; **StarBase**](https://starbase.co/) <sub><sup>([STAR](https://coinmarketcap.com/es/currencies/starbase/))</sup></sub> - Token based global crowdfunding and crowdsourcing platform.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Financial Services and Invoicing
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://bitshares.org/)&nbsp; **BitShares**](https://bitshares.org/) <sub><sup>([BTS](https://coinmarketcap.com/es/currencies/bitshares/))</sup></sub> -  Stack of financial services including exchange and banking on a blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://chain.com/)&nbsp; **Chain**](https://chain.com/) - Enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.tallysticks.io/)&nbsp; **Tallysticks**](https://www.tallysticks.io/) - Automate the invoicing and the invoice financing processes. International Trade, Simplified.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://cindicator.com/)&nbsp; **Cindicator**](https://cindicator.com/) <sub><sup>([CND](https://coinmarketcap.com/es/currencies/cindicator/))</sup></sub> - Works with predictive analytics, data, and market indicators powered by Hybrid Intelligence to support traditional and crypto financial market analysis.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://omisego.network/)&nbsp; **OmiseGO**](https://omisego.network/) <sub><sup>([OMG](https://coinmarketcap.com/es/currencies/omisego/))</sup></sub> - Scaling solution for finance on Ethereum, enabling transparent, peer-to-peer transactions in real-time. The decentralized network facilitates self-sovereign financial services across geographies, asset classes and applications.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://wanchain.org/)&nbsp; **Wanchain**](https://wanchain.org/) <sub><sup>([WAN](https://coinmarketcap.com/es/currencies/wanchain/))</sup></sub> - Distributed financial infrastructure. Cross-Chain Smart Contracts with Privacy Protection.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://veritas.veritaseum.com/)&nbsp; **Veritaseum**](https://veritas.veritaseum.com/) <sub><sup>([VERI](https://coinmarketcap.com/es/currencies/veritaseum/))</sup></sub> - Blockchain-based, peer-to-peer capital markets as software on a global scale, without the need for a third or authoritarian interest.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://populous.world/)&nbsp; **Populous**](https://populous.world/) <sub><sup>([PPT](https://coinmarketcap.com/es/currencies/populous/))</sup></sub> - Global invoice trading platform built on Blockchain's distributed ledger technology.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/bytom.png)&nbsp; **Bytom**](https://bytom.io/) <sub><sup>([BTM](https://coinmarketcap.com/es/currencies/bytom/))</sup></sub> - Peer-to-peer financial applications and asset applications from institutions and individuals could be built on Bytom chain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://liquid.plus/)&nbsp; **Liquid**](https://liquid.plus/) <sub><sup>([QASH](https://coinmarketcap.com/es/currencies/qash/))</sup></sub> - Financial Services on the Blockchain.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Payment&Liquidity Networks, Lending, and Custom Digital Assets
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://request.network/)&nbsp; **Request Network**](https://request.network/) <sub><sup>([REQ](https://coinmarketcap.com/es/currencies/request-network/))</sup></sub> - Decentralized network for payment requests.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://home.kyber.network/)&nbsp; **Kyber Network**](https://home.kyber.network/) <sub><sup>([KNC](https://coinmarketcap.com/es/currencies/kyber-network/))</sup></sub> - Decentralized Liquidity Network powering seamless transactions between individuals, ecosystems and dapps.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/bancor.png)&nbsp; **Bancor**](https://about.bancor.network) <sub><sup>([BNT](https://coinmarketcap.com/es/currencies/bancor/))</sup></sub> - Decentralized liquidity network that allows to hold (and create) any token and convert it to any other token in the network, with no counter party, at an automatically calculated price, using a web wallet.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://counterparty.io)&nbsp; **Counterparty**](http://counterparty.io/) <sub><sup>([XCP](https://coinmarketcap.com/es/currencies/counterparty/))</sup></sub> - Peer-to-peer finance platform built on top of the Bitcoin protocol. Custom Tokens creation.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.omnilayer.org/)&nbsp; **Omni**](http://www.omnilayer.org/) <sub><sup>([OMNI](https://coinmarketcap.com/es/currencies/omni/))</sup></sub> - Platform for creating and trading custom digital assets and currencies. Software layer built on top of the Bitcoin blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://wavesplatform.com/)&nbsp; **Waves**](https://wavesplatform.com/) <sub><sup>([WAVES](https://coinmarketcap.com/es/currencies/waves/))</sup></sub> - Decentralized platform that allows any user to issue, transfer, swap and trade custom tokens directly on the blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.syscoin.org/)&nbsp; **Syscoin**](https://www.syscoin.org/) <sub><sup>([SYS](https://coinmarketcap.com/es/currencies/syscoin/))</sup></sub> - Asset token creation platform and decentralized marketplace and so much more!  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ethlend.io)&nbsp; **ETHLend**](https://ethlend.io) <sub><sup>([LEND](https://coinmarketcap.com/es/currencies/ethlend/))</sup></sub> - Decentralized financial marketplace for peer to peer lending agreements using blockchain and smart contracts.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.digibyte.io)&nbsp; **DigiByte**](https://www.digibyte.io/) <sub><sup>([DGB](https://coinmarketcap.com/es/currencies/digibyte/))</sup></sub> - Decentralized payment network & digital currency, inspired by Bitcoin.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/salt.png)&nbsp; **SALT**](https://www.saltlending.com/) <sub><sup>([SALT](https://coinmarketcap.com/es/currencies/salt/))</sup></sub> - Lets leverage blockchain assets to secure cash loans.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://cryptonex.org/)&nbsp; **Cryptonex**](https://cryptonex.org/) <sub><sup>([CNX](https://coinmarketcap.com/es/currencies/cryptonex/))</sup></sub> - Global blockchain acquisition network.  
+&nbsp; [![](https://awebanalysis.com/img/coins/16/havven.png)&nbsp; **Havven**](https://havven.io/) <sub><sup>([HAV](https://coinmarketcap.com/es/currencies/havven/))</sup></sub> - Decentralised payment network and stablecoin. It allows anyone to transact using a stable cryptocurrency.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Recruitment
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://chronobank.io/)&nbsp; **ChronoBank**](https://chronobank.io/) <sub><sup>([TIME](https://coinmarketcap.com/es/currencies/chronobank/))</sup></sub> - Wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Identity, Copyright and Legal Agreements
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://monax.io/)&nbsp; **Monax**](https://monax.io/) - Create self-executable legal agreements based on smart-contract.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://agreements.network/)&nbsp; **Agreements Network**](https://agreements.network/) - Introducing a decentralized contract management platform that uses smart contract technology to create, prove and operate legal agreements. It’s the legal layer for a networked world.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://veres.one/)&nbsp; **Veres One**](https://veres.one/) - Identity management on blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://radiumcore.org/)&nbsp; **Radium Core**](https://radiumcore.org/) <sub><sup>([RADS](https://coinmarketcap.com/es/currencies/radium/))</sup></sub> - Decentralized cryptocurrency offering a system for record verification and blockchain-based identities.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://bnktothefuture.com/)&nbsp; **BnkToTheFuture**](https://bnktothefuture.com/) <sub><sup>([BFT](https://coinmarketcap.com/es/currencies/bnktothefuture/))</sup></sub> - Investment platform that brings financial innovation & technology investment opportunities to investors.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.agrello.io)&nbsp; **Agrello**](https://www.agrello.io) <sub><sup>([DLT](https://coinmarketcap.com/es/currencies/agrello-delta/))</sup></sub> - Legally Binding Smart Contracts.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.ascribe.io)&nbsp; **Ascribe**](https://www.ascribe.io/) - Decentralized content registry for for artists and creators. Lock in attribution, securely share and trace where your digital work spreads.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://binded.com/)&nbsp; **Binded**](https://binded.com/) - Copyright made simple. The easy way to protect your images.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.civic.com/)&nbsp; **Civic**](https://www.civic.com/) <sub><sup>([CVC](https://coinmarketcap.com/es/currencies/civic/))</sup></sub> - (Universal Digital Identity) A Secured Identity For Everyone. Civic enables people to take control and protect their identity.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.uport.me/)&nbsp; **Uport**](https://www.uport.me/) - Open identity system allows users to register their own identity on Ethereum, send and request credentials, sign transactions, and manage keys & data.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.po.et/)&nbsp; **Po**.et](https://www.po.et/) <sub><sup>([POE](https://coinmarketcap.com/es/currencies/poet/))</sup></sub> - Decentralized Protocol for content ownership, discovery, and monetization in media.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://dock.io/)&nbsp; **Dock**](https://dock.io/) <sub><sup>([DOCK](https://coinmarketcap.com/es/currencies/dock/))</sup></sub> - Connect profiles, reputations and networks into one sharable source using blockchain technology.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://reddcoin.com/)&nbsp; **Reddcoin**](https://reddcoin.com/) <sub><sup>(RDD)</sup></sub> - Creating blockchain platform to use personalized IDs for social media tipping, with all data stored safely in the blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://blockstack.org/)&nbsp; **Blockstack**](https://blockstack.org/) -  Platform for decentralized apps where users own their data. A browser is all that’s needed to get started.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.evernym.com)&nbsp; **Evernym**](https://www.evernym.com) - Self-Sovereign identity built on top of open source permissioned blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://jolocom.com/)&nbsp; **Jolocom**](https://jolocom.com/) - Self-sovereing identity app.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Security and Authentication
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://edge.app/)&nbsp; **Edge**](https://edge.app/) - Multi-Asset Blockchain Wallet and single-signon security platform for blockchain apps.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://quantstamp.com/)&nbsp; **Quantstamp**](https://quantstamp.com/) <sub><sup>([QSP](https://coinmarketcap.com/es/currencies/quantstamp/))</sup></sub> - Protocol to enable smart contract security for Ethereum's future. Easy web-based, automated smart contract auditing proof-of-concept.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=)&nbsp; **ShoCard**](https://shocard.com/) - Secure Enterprise Identity Authentication
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Asset Tokenization
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.trusttoken.com/)&nbsp; **TrustToken**](https://www.trusttoken.com/) <sub><sup>([TUSD](https://coinmarketcap.com/es/currencies/trueusd/))</sup></sub> - Platform to create asset-backed tokens that you can easily buy and sell around the world.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://atlant.io)&nbsp; **Atlant.io**](https://atlant.io) <sub><sup>([ATL](https://coinmarketcap.com/es/currencies/atlant/))</sup></sub> - Addressing two of the most pertinent problems in real estate with its decentralized blockchain platform: Tokenized Ownership and global P2P Rentals.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Database and Content Distribution
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ipfs.io/)&nbsp; **IPFS**](https://ipfs.io/) - (InterPlanetary File System) Hypermedia distribution protocol, addressed by content and identities. Enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://swarm-gateways.net/)&nbsp; **Swarm**](http://swarm-gateways.net/) - The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://decent.ch/)&nbsp; **Decent**](https://decent.ch/) <sub><sup>([DCT](https://coinmarketcap.com/es/currencies/decent/))</sup></sub> - Blockchain content distribution platform.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://maidsafe.net/)&nbsp; **Maidsafe**](http://maidsafe.net/) <sub><sup>([MAID](https://coinmarketcap.com/es/currencies/maidsafecoin/))</sup></sub> - SAFE (Secure Access For Everyone) Network, a way to access a world of existing apps where the security of your data is put above all else.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.synereo.com/)&nbsp; **Synereo**](http://www.synereo.com/) <sub><sup>([AMP](https://coinmarketcap.com/es/currencies/synereo/))</sup></sub> - Blockchain content distribution platform with reward system and goal to change the decentralized future of social networking.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://gxs.gxb.io/en/)&nbsp; **GXChain**](https://gxs.gxb.io/en/) <sub><sup>([GXS](https://coinmarketcap.com/es/currencies/gxchain/))</sup></sub> - Commercialized data marketplace based on blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.bigchaindb.com/)&nbsp; **BigchainDB**](https://www.bigchaindb.com/) - Data storage and built-in asset support, is like a database with blockchain characteristics.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Cloud Computing
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://iex.ec/)&nbsp; **iExec**](https://iex.ec/) <sub><sup>([RLC](https://coinmarketcap.com/es/currencies/rlc/))</sup></sub> - Blockchain-Based Decentralized Cloud Computing.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://golem.network/)&nbsp; **Golem**](https://golem.network/) <sub><sup>([GNT](https://coinmarketcap.com/es/currencies/golem-network-tokens/))</sup></sub> - It's made up of the combined power of user's machines, from personal laptops to entire datacenters. Creates a global market for idle computer power.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://aelf.io/)&nbsp; **aelf**](https://aelf.io/) <sub><sup>([ELF](https://coinmarketcap.com/es/currencies/aelf/))</sup></sub> - Decentralized Cloud Computing Blockchain Network.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://dfinity.org/)&nbsp; **Dfinity**](https://dfinity.org/) - High performance decentralized cloud compute network that hosts EVM smart contracts.  
+
+<br>
+
+### Storage
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://storj.io/)&nbsp; **Storj**](https://storj.io/) <sub><sup>([STORJ](https://coinmarketcap.com/es/currencies/storj/))</sup></sub> - Decentralized blockchain, peer-to-peer protocols and encrypted cloud storage.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://sia.tech/)&nbsp; **Sia**](http://sia.tech/) <sub><sup>([SC](https://coinmarketcap.com/es/currencies/siacoin/))</sup></sub> - Enterprise-Grade collaborative cloud for data storage.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://filecoin.io/)&nbsp; **Filecoin**](https://filecoin.io/) <sub><sup>([FIL](https://coinmarketcap.com/es/currencies/filecoin/))</sup></sub> - Decentralized storage network.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### IoT
+
+&nbsp; [![](https://awebanalysis.com/img/coins/16/iota.png)&nbsp; **Iota**](https://www.iota.org/) <sub><sup>([MIOTA](https://coinmarketcap.com/es/currencies/iota/))</sup></sub> - Distributed ledger for the Internet of Things. The fuel for microtransactions machine-to-machine (M2M), without fees as well as secure data transfer. Tangle.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://taraxa.io/)&nbsp; **Taraxa**](http://taraxa.io/) - Aims to “democratize Internet-of-Things (IoT)” data.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.toschain.org/)&nbsp; **Tos**](http://www.toschain.org/) - Decentralization layered block network technology based on SDAG for the IOT.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://nucleus.vision/)&nbsp; **Nucleus Vision**](https://nucleus.vision/) <sub><sup>([NCASH](https://coinmarketcap.com/es/currencies/nucleus-vision/))</sup></sub> - IoT & blockchain based, contactless identification system, using NCASH cryptocurrency to enable transactions across retail ecosystem.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://slock.it/)&nbsp; **Slock.it**](https://slock.it/) - Ethereum-based platform for building shared things.
+
+<br>
+
+### Supply Chain and logistics
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.vechain.com/)&nbsp; **Vechain**](https://www.vechain.com/) <sub><sup>([VEN](https://coinmarketcap.com/es/currencies/vechain/))</sup></sub> - Blockchain-as-a-service. Platform for products and information.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://origintrail.io/)&nbsp; **OriginTrail**](https://origintrail.io/) <sub><sup>([TRAC](https://coinmarketcap.com/es/currencies/origintrail/))</sup></sub> - Blockchain-Powered data exchange protocol for interconnected supply chains.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.chronicled.com/)&nbsp; **Chronicled**](http://www.chronicled.com/) - Link any physical product to its digital identity on a blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.wacoin.io/)&nbsp; **Wabi**](https://www.wacoin.io/) <sub><sup>([WABI](https://coinmarketcap.com/es/currencies/wabi/))</sup></sub> - Digital token backed by safe products. By scanning the secure anti-counterfeit labels, consumers are guaranteed product authenticity and rewarded through a loyalty system.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://modum.io/)&nbsp; **Modum**](https://modum.io/) <sub><sup>([MOD](https://coinmarketcap.com/es/currencies/modum/))</sup></sub>  - Data integrity for supply chain operations, powered by blockchain technology.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.waltonchain.org/)&nbsp; **WaltonChain**](https://www.waltonchain.org/) <sub><sup>([WTC](https://coinmarketcap.com/es/currencies/waltonchain/))</sup></sub> - Combines blockchain with IoT (specifically RFID) to create a management system for supply chains.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://ambrosus.com/)&nbsp; **Ambrosus**](https://ambrosus.com/) <sub><sup>([AMB](https://coinmarketcap.com/es/currencies/amber/))</sup></sub> - Blockchain-powered IoT network for food and pharmaceutical enterprises, enabling secure and frictionless dialogue between sensors, distributed ledgers and databases to optimise supply chain visibility and quality assurance.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Data Analysis, AI
+
+&nbsp; [![](https://awebanalysis.com/img/coins/16/gnosis-gno.png)&nbsp; **Gnosis**](https://gnosis.pm/) <sub><sup>([GNO](https://coinmarketcap.com/es/currencies/gnosis-gno/))</sup></sub> - Market-driven forecasting technology to let you shape the future.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.idni.org/)&nbsp; **TauChain**](http://www.idni.org/) - Decentralized blockchain network intended to solve the bottlenecks inherent in large scale human communication and accelerate productivity in human collaboration using logic based Artificial Intelligence.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://fysical.org/)&nbsp; **FYSICAL**](https://fysical.org/) <sub><sup>(FYS)</sup></sub> - Infrastructure for the location data market protocol; foot traffic sensor readings, store visit information, commute routes.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.cortexlabs.ai/)&nbsp; **Cortex**](http://www.cortexlabs.ai/) <sub><sup>([CTXC](https://coinmarketcap.com/es/currencies/cortex/))</sup></sub> -  Decentralized AI Autonomous System. Allows users to write machine-learning programs on the blockchain and submit interactions that are dependent upon other  contracts.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Marketing, Advertisements and Brand Loyalty
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://data.eco/)&nbsp; **Data**](http://data.eco/) <sub><sup>([DTA](https://coinmarketcap.com/es/currencies/data/))</sup></sub> - Aims to create a decentralized, AI-powered trust alliance for the digital advertising industry.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://loyyal.com/)&nbsp; **Loyyal**](http://loyyal.com/) - Universal loyalty and rewards platform.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://basicattentiontoken.org/)&nbsp; **Brave**](https://basicattentiontoken.org/) <sub><sup>([BAT](https://coinmarketcap.com/es/currencies/basic-attention-token/))</sup></sub> - Blockchain-based digital advertising. It has its own browser, Brave.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://woonkly.com)&nbsp; **Woonkly**](https://woonkly.com) - Connects advertisers and their audience without intermediaries. Earn money by watching, sharing and interacting with digital content.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://kindads.io/)&nbsp; **Kindads**](https://kindads.io/) - Kind Ads is an advertising platform that serves user-friendly ads without taking any middleman fees.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.stormx.io/)&nbsp; **Storm**](https://www.stormx.io/) <sub><sup>([STORM](https://coinmarketcap.com/es/currencies/storm/))</sup></sub> - Storm’s gamified microtask platform creates opportunities for people around the world to earn cryptocurrency rewards.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Social Media
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://steem.io/)&nbsp; **Steem**](https://steem.io/) <sub><sup>([STEEM](https://coinmarketcap.com/es/currencies/steem/))</sup></sub> - Blockchain-based social media platform with reward system.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://viuly.com/)&nbsp; **viuly**](https://viuly.com/) <sub><sup>([VIU](https://coinmarketcap.com/es/currencies/viuly/))</sup></sub> - Decentralized video sharing platform where authors and users rewarded for doing things they love.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://d.tube/)&nbsp; **Dtube**](https://d.tube/) - Decentralized streaming video platform linked to Steemit which allows users to upload videos easily get rewards via the upvotes or likes on their post.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.thetatoken.org/)&nbsp; **Theta**](https://www.thetatoken.org/) <sub><sup>([THETA](https://coinmarketcap.com/es/currencies/theta-token/))</sup></sub> - Decentralized video delivery network, powered by users and an innovative new blockchain.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://lino.network/)&nbsp; **Lino Network**](https://lino.network/) <sub><sup>(?)</sup></sub> - Decentralized Autonomous Video Content Economy.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.minds.com/)&nbsp; **Minds**](https://www.minds.com/) - Open source and decentralized platform for Internet freedom. Get paid in crypto for your contributions to the community.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.suchapp.io/)&nbsp; **Suchapp**](https://www.suchapp.io/)  <sub><sup>(SPS)</sup></sub> - Combines best-of-class messaging with the power of a social network. Group administrators can manage their own custom loyalty program based on our SPS Token.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.yoyow.org/)&nbsp; **YOYOW**](https://www.yoyow.org/) <sub><sup>([YOYOW](https://coinmarketcap.com/es/currencies/yoyow/))</sup></sub> - Blockchain based content value network.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://mith.io/)&nbsp; **Mithril**](https://mith.io/) <sub><sup>([MITH](https://coinmarketcap.com/es/currencies/mithril/))</sup></sub> - Decentralized social media platform that rewards all content creators.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://colony.io/)&nbsp; **Colony**](https://colony.io/) - Platform for open organizations.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Web Browsers
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://brave.com/)&nbsp; **Brave**](https://brave.com/) <sub><sup>([BAT](https://coinmarketcap.com/es/currencies/basic-attention-token/))</sup></sub> - Features blockchain-based tokens which can be used to reward content creators.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.bitclave.com/)&nbsp; **BitClave**](https://www.bitclave.com/) <sub><sup>([CAT](https://coinmarketcap.com/es/currencies/bitclave/))</sup></sub> - Helps to get value from your search data.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.presearch.io/)&nbsp; **PreSearch**](https://www.presearch.org/signup?rid=190778) <sub><sup>([PRE](https://coinmarketcap.com/es/currencies/presearch/))</sup></sub> - Decentralized search engine powered by the community.  
+&nbsp; - [![](http://www.google.com/s2/favicons?domain=)&nbsp; **Status**](https://status.im/) <sub><sup>([SNT](https://coinmarketcap.com/es/currencies/status/))</sup></sub> - Mobile Ethereum OS. Browse, chat and make payments on the decentralized web. The Ethereum discovery tool.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Gaming and Virtual Reality
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.enjin.com/)&nbsp; **Enjin**](https://www.enjin.com/) <sub><sup>([ENJ](https://coinmarketcap.com/es/currencies/enjin-coin/))</sup></sub> - Smart cryptocurrency for gaming (ENJ), fueling a blockchain game development platform.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://decentraland.org/)&nbsp; **Decentraland**](https://decentraland.org/) <sub><sup>([MANA](https://coinmarketcap.com/es/currencies/decentraland/))</sup></sub> - Virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://loomx.io/)&nbsp; **Loom**](https://loomx.io/) <sub><sup>([LOOM](https://coinmarketcap.com/es/currencies/loom-network/))</sup></sub> - DApp scaling solution for Ethereum, focused on large-scale online games and social apps.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://game.com/)&nbsp; **Game.com**](https://game.com/) <sub><sup>([GTC](https://coinmarketcap.com/es/currencies/game/))</sup></sub> - Creating a global gaming and entertainment platform for blockchain digital currencies.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://funfair.io/)&nbsp; **Funfair**](https://funfair.io/) <sub><sup>([FUN](https://coinmarketcap.com/es/currencies/funfair/))</sup></sub> - Provides blockchain powered solutions to the online gaming industry.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://firstblood.io/)&nbsp; **FirstBlood**](https://firstblood.io/) <sub><sup>([1ST](https://coinmarketcap.com/es/currencies/firstblood/))</sup></sub> - Blockchain powered e-sports platform that allows players to challenge each other and win rewards.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Merchant and E-commerce Solutions
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://pundix.com/)&nbsp; **PundiX**](https://pundix.com/) <sub><sup>([NPXS](https://coinmarketcap.com/es/currencies/pundi-x/))</sup></sub> - Payment & merchant Solutions. POS.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.cybermiles.io/)&nbsp; **CyberMiles**](https://www.cybermiles.io/) <sub><sup>([CMT](https://coinmarketcap.com/es/currencies/cybermiles/))</sup></sub> - Customized smart contracts for e-commerce companies to deploy their business on the Blockchain with ease.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.shping.com/)&nbsp; **Shping**](https://www.shping.com/) - Competing with Amazon by tokenizing shopping, and rewards you just for using it.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.iconomi.net/)&nbsp; **Iconomi**](https://www.iconomi.net/) <sub><sup>([ICN](https://coinmarketcap.com/es/currencies/iconomi/))</sup></sub> - Global digital asset management platform based on Ethereum technology; where DAA managers and investors meet.  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Blockchain based Marketplaces
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://lbry.io/)&nbsp; **Lbry**](http://lbry.io/) <sub><sup>([LBC](https://coinmarketcap.com/es/currencies/library-credit/))</sup></sub>  - Watch, read, and play in a decentralized digital library controlled by the community.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://openbazaar.org/)&nbsp; **Open Bazaar**](https://openbazaar.org/)  - Open source, decentralized marketplace for peer-to-peer commerce using cryptocurrency. No platform fees.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://district0x.io/)&nbsp; **distric0x**](https://district0x.io/) <sub><sup>([DNT](https://coinmarketcap.com/es/currencies/district0x/))</sup></sub> - Network of decentralized markets **and communities.** Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://app.purse.io/)&nbsp; **Purse**](https://app.purse.io/?_r=gPBUzH) - Purse allows users to name their own discount when shopping any product on Amazon by matching shoppers with earners- individuals who wish to exchange their Amazon gift cards for Bitcoin!  
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+
+### Electronics
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://sirinlabs.com/)&nbsp; **Sirin Labs**](https://sirinlabs.com/) <sub><sup>([SRN](https://coinmarketcap.com/es/currencies/sirin-labs-token/))</sup></sub> - Devices form an independent blockchain network.
+
+### Energy
+
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://powerledger.io/)&nbsp; **Power Ledger**](https://powerledger.io/) <sub><sup>([POWR](https://coinmarketcap.com/es/currencies/power-ledger/))</sup></sub> -  Peer-to-peer marketplace for renewable energy.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://solarcoin.org/)&nbsp; **Solarcoin**](https://solarcoin.org/) <sub><sup>([SLR](https://coinmarketcap.com/es/currencies/solarcoin/))</sup></sub> - Global rewards program for solar electricity generation.  
+&nbsp; [![](http://www.google.com/s2/favicons?domain=http://gridsingularity.com/)&nbsp; **GridSingularity**](http://gridsingularity.com/) - Open, decentralised energy data exchange platform.
+
+[<div align="right">![Up](./img/up.png)</div>](#contents)
+<br>
 
 ## Exchange and Trading
 
@@ -3586,7 +3926,6 @@ Coming soon...
 New sections are coming...
 
 ```
-- Blockchain Platforms
 - Blockchain Development
 - Block Explorers
 - Exchange and Trading
@@ -3598,7 +3937,6 @@ New sections are coming...
 - Announcements/Calendar
 - Payment Solutions (Cards & Platforms)
 - Shopping / Buy with Crypto
-- Blockchain Proyects
 - Professional Devs
 - Founders
 - Mining
