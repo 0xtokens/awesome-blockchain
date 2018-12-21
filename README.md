@@ -339,7 +339,7 @@ Communications with exchanges will be more secure if you use an encrypted email.
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
-## Blockchain Proyects
+## Blockchain Projects
 
 ### Governance
 
