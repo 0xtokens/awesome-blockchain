@@ -48,7 +48,7 @@ Some links in this list are _affiliate links,_ but you can skip them if you want
 - [Cryptocurrencies](#cryptocurrencies)
 - [Blockchain Application Platforms](#blockchain-application-platforms)
 - [Enterprise and Private Blockchains](#enterprise-and-private-blockchains)
-- [Blockchain Proyects](#blockchain-proyects)
+- [Blockchain Projects](#blockchain-projects)
 - [Exchange and Trading](#exchange-and-trading)
 	- [FIAT&#8596;Crypto Exchanges](#fiatcrypto-exchanges)
 	- [P2P Marketplaces](#p2p-marketplaces)
