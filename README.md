@@ -189,7 +189,7 @@ If you want to HOLD your cryptocurrencies for a long time, you can choose a **co
 
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://billfodl.com/)&nbsp; **Billfodl**](http://billfodl.com?afmc=28&utm_campaign=28&utm_source=leaddyno&utm_medium=affiliate) [&#x25BE;](https://billfodl.com/) The Safest Way to #HODL! We create offline products to keep your private keys safe.
 
-&nbsp; [![](http://www.google.com/s2/favicons?domain=https://cryptokeystack.com/)&nbsp; **CRYPTO**keystack](https://cryptokeystack.com/) &#x25BE; Stainless steel, DIY cryptocurrency wallet backup device for storing mnemonic phrases and private wallet keys.
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://cryptokeystack.com/)&nbsp; **CRYPTO**keystack](http://cryptokeystack.com/?rfsn=1546866.7eb41) &#x25BE; Stainless steel, DIY cryptocurrency wallet backup device for storing mnemonic phrases and private wallet keys.
 
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://coldti.com/)&nbsp; Cold**Ti**](https://amzn.to/2MSSfc0) [&#x25BE;](https://coldti.com/) The Simple way of cryptographic seed storage.  
 <br>
@@ -419,7 +419,7 @@ Communications with exchanges will be more secure if you use an encrypted email.
 
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://edge.app/)&nbsp; **Edge**](https://edge.app/) - Multi-Asset Blockchain Wallet and single-signon security platform for blockchain apps.  
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://quantstamp.com/)&nbsp; **Quantstamp**](https://quantstamp.com/) <sub><sup>([QSP](https://coinmarketcap.com/es/currencies/quantstamp/))</sup></sub> - Protocol to enable smart contract security for Ethereum's future. Easy web-based, automated smart contract auditing proof-of-concept.  
-&nbsp; [![](http://www.google.com/s2/favicons?domain=)&nbsp; **ShoCard**](https://shocard.com/) - Secure Enterprise Identity Authentication
+&nbsp; [![](http://www.google.com/s2/favicons?domain=https://shocard.com/)&nbsp; **ShoCard**](https://shocard.com/) - Secure Enterprise Identity Authentication
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
