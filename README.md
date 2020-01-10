@@ -439,6 +439,7 @@ Communications with exchanges will be more secure if you use an encrypted email.
 &nbsp; [![](http://www.google.com/s2/favicons?domain=http://www.synereo.com/)&nbsp; **Synereo**](http://www.synereo.com/) <sub><sup>([AMP](https://coinmarketcap.com/es/currencies/synereo/))</sup></sub> - Blockchain content distribution platform with reward system and goal to change the decentralized future of social networking.  
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://gxs.gxb.io/en/)&nbsp; **GXChain**](https://gxs.gxb.io/en/) <sub><sup>([GXS](https://coinmarketcap.com/es/currencies/gxchain/))</sup></sub> - Commercialized data marketplace based on blockchain.  
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.bigchaindb.com/)&nbsp; **BigchainDB**](https://www.bigchaindb.com/) - Data storage and built-in asset support, is like a database with blockchain characteristics.
+&nbsp; [![](https://www.google.com/s2/favicons?domain=https://cybercongress.ai/)&nbsp; **Cyber**](https://github.com/cybercongress) - A decentralized alternative to Google, built with the help of IPFS and Tendermint.
 
 [<div align="right">![Up](./img/up.png)</div>](#contents)
 
