@@ -3822,7 +3822,7 @@ Brokers of the traditional financial markets that also allow to invest in crypto
 - [![](http://www.google.com/s2/favicons?domain=https://www.gkfx.com/)&nbsp; **GKFX**](https://www.gkfx.com/) - GKFX is your FCA regulated trading partner
 - [![](http://www.google.com/s2/favicons?domain=https://www.clicktrade.es/)&nbsp; **CLICKTRADE**](https://www.clicktrade.es/) - Broker online de Acciones y Derivados, (Futuros, Opciones, CFDs y Forex)
 - [![](http://www.google.com/s2/favicons?domain=https://www.tmseurope.es/)&nbsp; **TMS**](https://www.tmseurope.es/) - BITCOIN Futures CFD - invest with TMS Brokers!
-- [![](http://www.google.com/s2/favicons?domain=https://www.axitrader.com/)&nbsp; **AXITRADER**](https://www.axitrader.com/) - Trade Forex with a Leading Global Broker. We're founded by traders, so we've built AxiTrader to be the Forex broker that we've wanted to trade with ourselves
+- [![](http://www.google.com/s2/favicons?domain=https://www.axi.com/)&nbsp; **AXI**](https://www.axi.com/) - Trade Forex with a Leading Global Broker. We're founded by traders, so we've built Axi to be the Forex broker that we've wanted to trade with ourselves
 - [![](https://eu.iqoption.com/assets/images/favicons/favicon-16x16.png?v=XBBobPBryW)&nbsp; **IQ Option**](https://iqoption.com/) - Simple and secure trading platform
 - [![](http://www.google.com/s2/favicons?domain=https://www.ufx.com/)&nbsp; **UFX**](https://www.ufx.com/) - Leading online broker that provides trading services in currencies, commodities, indices and CFDs
 - [![](http://www.google.com/s2/favicons?domain=https://www.plus500.com/)&nbsp; **Plus500**](https://www.plus500.com/) - Trade Shares, Indices, Commodities and Forex through our CFD service
